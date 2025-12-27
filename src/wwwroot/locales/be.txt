@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"viewLabel": {
+			"text": "Выгляд"
+		},
+		"toolsLabel": {
+			"text": "Iнструменты"
+		},
+		"measurementsLabel": {
+			"text": "Вымярэнні"
+		},
+		"showMobileMenuButton": {
+			"title": "Яшчэ"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Загружайце і дадавайце файлы DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Ачысціць кэш сеанса"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Паказаць метаданыя файла DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Поуны экран"
+		},
+		"zoomOutButton": {
+			"title": "Зменшыць маштаб"
+		},
+		"zoomInButton": {
+			"title": "Павялічыць"
+		},
+		"invertImageButton": {
+			"title": "Інвертаваць малюнак"
+		},
+		"resetViewButton": {
+			"title": "Скінуць прагляд"
+		},
+		"fitToWidthButton": {
+			"title": "Адагнаць відарыс па шырыні"
+		},
+		"fitToHeightButton": {
+			"title": "Адагнаць малюнак да вышыні"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Прагляд выявы ў лепшым выглядзе"
+		},
+		"showTextOverlaysButton": {
+			"title": "Паказаць/схаваць тэкставыя накладкі"
+		},
+		"showMeasurementsButton": {
+			"title": "Паказаць/схаваць памеры"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Намалюйце малюнак з інтэрпаляцыяй"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Пан"
+		},
+		"browseToolButton": {
+			"title": "Праглядзіце кадры"
+		},
+		"zoomToolButton": {
+			"title": "Маштабаванне"
+		},
+		"windowLevelToolButton": {
+			"title": "Аконны ўзровень"
+		},
+		"measurementsToolButton": {
+			"title": "Вымярэнні"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Налады ўзроўню вокнаў DICOM"
+		},
+		"buildLineButton": {
+			"title": "Будаваць лінію"
+		},
+		"buildLinesButton": {
+			"title": "Будаваць лініі"
+		},
+		"buildAngleButton": {
+			"title": "Кут зборкі"
+		},
+		"buildEllipseButton": {
+			"title": "Пабудаваць эліпс"
+		},
+		"buildCrossButton": {
+			"title": "Пабудаваць крыж"
+		},
+		"buildRectangleButton": {
+			"title": "Пабудаваць прамавугольнік"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Выдаліць сфакусаванае вымярэнне"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Зніміце ўсе вымярэнні"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Міліметры"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Сантыметры"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "цалі"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Пікселі"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Схаваць бакавую панэль"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Менеджэр серыі DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Выгляд"
+				},
+				"toolsLabel": {
+					"text": "Iнструменты"
+				},
+				"measurementsLabel": {
+					"text": "Вымярэнні"
+				},
+				"showMobileMenuButton": {
+					"title": "Яшчэ"
+				},
+				"invertImageButton": {
+					"title": "Інвертаваць малюнак"
+				},
+				"resetViewButton": {
+					"title": "Скінуць прагляд"
+				},
+				"fitToWidthButton": {
+					"title": "Адагнаць відарыс па шырыні"
+				},
+				"fitToHeightButton": {
+					"title": "Адагнаць малюнак да вышыні"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Прагляд выявы ў лепшым выглядзе"
+				},
+				"showTextOverlaysButton": {
+					"title": "Паказаць/схаваць тэкставыя накладкі"
+				},
+				"showMeasurementsButton": {
+					"title": "Паказаць/схаваць памеры"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Сярэдні"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Поуны экран"
+				},
+				"browseToolButton": {
+					"title": "Праглядзіце кадры"
+				},
+				"panToolButton": {
+					"title": "Пан"
+				},
+				"zoomToolButton": {
+					"title": "Маштабаванне"
+				},
+				"rotate3dToolButton": {
+					"title": "Паварот 3D"
+				},
+				"rollToolButton": {
+					"title": "Рулон"
+				},
+				"windowLevelToolButton": {
+					"title": "Аконны ўзровень"
+				},
+				"measurementsToolButton": {
+					"title": "Вымярэнні"
+				},
+				"buildLineButton": {
+					"title": "Будаваць лінію"
+				},
+				"buildLinesButton": {
+					"title": "Будаваць лініі"
+				},
+				"buildAngleButton": {
+					"title": "Кут зборкі"
+				},
+				"buildEllipseButton": {
+					"title": "Пабудаваць эліпс"
+				},
+				"buildCrossButton": {
+					"title": "Пабудаваць крыж"
+				},
+				"buildRectangleButton": {
+					"title": "Пабудаваць прамавугольнік"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Выдаліць сфакусаванае вымярэнне"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Зніміце ўсе вымярэнні"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Міліметры"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Сантыметры"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "цалі"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Пікселі"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "VOI LUT па змаўчанні"
+		},
+		"customVoiLutButton": {
+			"value": "Карыстальніцкі VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Сагітальны..."
+		},
+		"CoronalButton": {
+			"value": "Каранальны..."
+		},
+		"AxialButton": {
+			"value": "Восевая..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Выгнуты MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Па сагітальнай..."
+			},
+			"OnCoronalButton": {
+				"value": "На каранал..."
+			},
+			"OnAxialButton": {
+				"value": "На восевым..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Шырыня:"
+			},
+			"centerLabel": {
+				"text": "Цэнтр:"
+			},
+			"applyButton": {
+				"value": "Ужыць"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Адмяніць"
+			},
+			"resetButton": {
+				"value": "Скінуць"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Памылка"
+		},
+		"closeButton": {
+			"text": "Блізка"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "КТ жывата",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "КТ сасудаў",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "КТ косткі",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "КТ галаўнога мозгу",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "КТ грудной клеткі",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "КТ лёгкіх",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Шырыня",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Выраўнаваць па цэнтры",
+		"vsdm-metadataDialog-title": "Метададзеныя файла DICOM",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "Ідэнтыфікатар тэга",
+		"vsdm-metadataTable-length": "Даўжыня",
+		"vsdm-metadataTable-description": "Апісанне",
+		"vsdm-metadataTable-value": "Значэнне",
+		"vsdm-customDicomVoiLutDialog-title": "Аконны ўзровень",
+		"vsdm-dialog-applyButton": "Ужыць",
+		"vsdm-dialog-cancelButton": "Адмяніць",
+		"vsdm-dialog-resetButton": "Скінуць"
+	}
+}

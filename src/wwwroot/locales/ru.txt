@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"viewLabel": {
+			"text": "Просмотр"
+		},
+		"toolsLabel": {
+			"text": "Инструменты"
+		},
+		"measurementsLabel": {
+			"text": "Измерения"
+		},
+		"showMobileMenuButton": {
+			"title": "Еще"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Загрузить и добавить DICOM файлы"
+		},
+		"clearSessionCacheButton": {
+			"title": "Очистить кэш сеанса"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Показать метаданные DICOM файла"
+		},
+		"fullScreenButton": {
+			"title": "Полноэкранный"
+		},
+		"zoomOutButton": {
+			"title": "Уменьшить масштаб"
+		},
+		"zoomInButton": {
+			"title": "Увеличить масштаб"
+		},
+		"invertImageButton": {
+			"title": "Инвертировать изображение"
+		},
+		"resetViewButton": {
+			"title": "Сбросить вид"
+		},
+		"fitToWidthButton": {
+			"title": "Подогнать изображение по ширине"
+		},
+		"fitToHeightButton": {
+			"title": "Подогнать изображение по высоте"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Просмотреть изображение в наилучшем формате"
+		},
+		"showTextOverlaysButton": {
+			"title": "Показать/скрыть текстовые наложения"
+		},
+		"showMeasurementsButton": {
+			"title": "Показать/скрыть измерения"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Отображать изображение с интерполяцией"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Панорамирование"
+		},
+		"browseToolButton": {
+			"title": "Просмотр кадров"
+		},
+		"zoomToolButton": {
+			"title": "Масштаб"
+		},
+		"windowLevelToolButton": {
+			"title": "Уровень окна"
+		},
+		"measurementsToolButton": {
+			"title": "Измерения"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Настройки уровня окна DICOM"
+		},
+		"buildLineButton": {
+			"title": "Построить линию"
+		},
+		"buildLinesButton": {
+			"title": "Построить линии"
+		},
+		"buildAngleButton": {
+			"title": "Построить угол"
+		},
+		"buildEllipseButton": {
+			"title": "Построить эллипс"
+		},
+		"buildCrossButton": {
+			"title": "Построить крест"
+		},
+		"buildRectangleButton": {
+			"title": "Построить прямоугольник"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Удалить сфокусированное измерение"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Удалить все измерения"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Миллиметры"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Сантиметры"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Дюймы"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Пиксели"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Скрыть боковую панель"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Менеджер DICOM серий"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Просмотр"
+				},
+				"toolsLabel": {
+					"text": "Инструменты"
+				},
+				"measurementsLabel": {
+					"text": "Измерения"
+				},
+				"showMobileMenuButton": {
+					"title": "Еще"
+				},
+				"invertImageButton": {
+					"title": "Инвертировать изображение"
+				},
+				"resetViewButton": {
+					"title": "Сбросить вид"
+				},
+				"fitToWidthButton": {
+					"title": "Подогнать изображение по ширине"
+				},
+				"fitToHeightButton": {
+					"title": "Подогнать изображение по высоте"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Просмотреть изображение в наилучшем формате"
+				},
+				"showTextOverlaysButton": {
+					"title": "Показать/скрыть текстовые наложения"
+				},
+				"showMeasurementsButton": {
+					"title": "Показать/скрыть измерения"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Среднее"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Полноэкранный"
+				},
+				"browseToolButton": {
+					"title": "Просмотр кадров"
+				},
+				"panToolButton": {
+					"title": "Панорамирование"
+				},
+				"zoomToolButton": {
+					"title": "Масштаб"
+				},
+				"rotate3dToolButton": {
+					"title": "Поворот 3D"
+				},
+				"rollToolButton": {
+					"title": "Вращение"
+				},
+				"windowLevelToolButton": {
+					"title": "Уровень окна"
+				},
+				"measurementsToolButton": {
+					"title": "Измерения"
+				},
+				"buildLineButton": {
+					"title": "Построить линию"
+				},
+				"buildLinesButton": {
+					"title": "Построить линии"
+				},
+				"buildAngleButton": {
+					"title": "Построить угол"
+				},
+				"buildEllipseButton": {
+					"title": "Построить эллипс"
+				},
+				"buildCrossButton": {
+					"title": "Построить крест"
+				},
+				"buildRectangleButton": {
+					"title": "Построить прямоугольник"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Удалить сфокусированное измерение"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Удалить все измерения"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Миллиметры"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Сантиметры"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Дюймы"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Пиксели"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "VOI LUT по умолчанию"
+		},
+		"customVoiLutButton": {
+			"value": "Пользовательский VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Сагиттальный..."
+		},
+		"CoronalButton": {
+			"value": "Фронтальный..."
+		},
+		"AxialButton": {
+			"value": "Аксиальный..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Криволинейный MPR"
+			},
+			"OnSagittalButton": {
+				"value": "На сагиттальном..."
+			},
+			"OnCoronalButton": {
+				"value": "На коронарном..."
+			},
+			"OnAxialButton": {
+				"value": "На аксиальном..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Ширина:"
+			},
+			"centerLabel": {
+				"text": "Центр:"
+			},
+			"applyButton": {
+				"value": "Применить"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"cancelButton": {
+				"value": "Отмена"
+			},
+			"resetButton": {
+				"value": "Перезагрузить"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Ошибка"
+		},
+		"closeButton": {
+			"text": "Закрыть"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "КТ брюшной полости",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "КТ сосудов",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "КТ костей",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "КТ головного мозга",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "КТ груди",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "КТ легких",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Ширина",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Центр",
+		"vsdm-metadataDialog-title": "Метаданные DICOM файла",
+		"vsdm-dialog-okButton": "ОК",
+		"vsdm-metadataTable-tagId": "Идентификатор тега",
+		"vsdm-metadataTable-length": "Длина",
+		"vsdm-metadataTable-description": "Описание",
+		"vsdm-metadataTable-value": "Значение",
+		"vsdm-customDicomVoiLutDialog-title": "Уровень окна",
+		"vsdm-dialog-applyButton": "Применить",
+		"vsdm-dialog-cancelButton": "Отмена",
+		"vsdm-dialog-resetButton": "Перезагрузить"
+	}
+}

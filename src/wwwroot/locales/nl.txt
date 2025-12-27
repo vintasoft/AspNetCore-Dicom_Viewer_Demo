@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Bestand"
+		},
+		"viewLabel": {
+			"text": "Bekijken"
+		},
+		"toolsLabel": {
+			"text": "Gereedschap"
+		},
+		"measurementsLabel": {
+			"text": "Afmetingen"
+		},
+		"showMobileMenuButton": {
+			"title": "Meer"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "DICOM-bestanden uploaden en toevoegen"
+		},
+		"clearSessionCacheButton": {
+			"title": "Sessiecache wissen"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM-bestandsmetagegevens weergeven"
+		},
+		"fullScreenButton": {
+			"title": "Volledig scherm"
+		},
+		"zoomOutButton": {
+			"title": "Uitzoomen"
+		},
+		"zoomInButton": {
+			"title": "Inzoomen"
+		},
+		"invertImageButton": {
+			"title": "Afbeelding omkeren"
+		},
+		"resetViewButton": {
+			"title": "Weergave resetten"
+		},
+		"fitToWidthButton": {
+			"title": "Afbeelding aanpassen aan breedte"
+		},
+		"fitToHeightButton": {
+			"title": "Afbeelding aanpassen aan hoogte"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Afbeelding weergeven in beste pasvorm"
+		},
+		"showTextOverlaysButton": {
+			"title": "Tekstoverlays weergeven/verbergen"
+		},
+		"showMeasurementsButton": {
+			"title": "Metingen weergeven/verbergen"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Afbeelding tekenen met interpolatie"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Blader door kaders"
+		},
+		"zoomToolButton": {
+			"title": "Schaal"
+		},
+		"windowLevelToolButton": {
+			"title": "Vensterniveau"
+		},
+		"measurementsToolButton": {
+			"title": "Afmetingen"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Instellingen DICOM-vensterniveau"
+		},
+		"buildLineButton": {
+			"title": "Lijn bouwen"
+		},
+		"buildLinesButton": {
+			"title": "Lijnen bouwen"
+		},
+		"buildAngleButton": {
+			"title": "Hoek bouwen"
+		},
+		"buildEllipseButton": {
+			"title": "Ellips bouwen"
+		},
+		"buildCrossButton": {
+			"title": "Kruis bouwen"
+		},
+		"buildRectangleButton": {
+			"title": "Rechthoek bouwen"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Gefocuste meting verwijderen"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Alle metingen verwijderen"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Millimeters"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Centimeter"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Inches"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Pixels"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Zijpaneel verbergen"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM-seriebeheerder"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Bekijken"
+				},
+				"toolsLabel": {
+					"text": "Gereedschap"
+				},
+				"measurementsLabel": {
+					"text": "Afmetingen"
+				},
+				"showMobileMenuButton": {
+					"title": "Meer"
+				},
+				"invertImageButton": {
+					"title": "Afbeelding omkeren"
+				},
+				"resetViewButton": {
+					"title": "Weergave resetten"
+				},
+				"fitToWidthButton": {
+					"title": "Afbeelding aanpassen aan breedte"
+				},
+				"fitToHeightButton": {
+					"title": "Afbeelding aanpassen aan hoogte"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Afbeelding weergeven in beste pasvorm"
+				},
+				"showTextOverlaysButton": {
+					"title": "Tekstoverlays weergeven/verbergen"
+				},
+				"showMeasurementsButton": {
+					"title": "Metingen weergeven/verbergen"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Gemiddeld"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Volledig scherm"
+				},
+				"browseToolButton": {
+					"title": "Blader door kaders"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Schaal"
+				},
+				"rotate3dToolButton": {
+					"title": "3D draaien"
+				},
+				"rollToolButton": {
+					"title": "Rollen"
+				},
+				"windowLevelToolButton": {
+					"title": "Vensterniveau"
+				},
+				"measurementsToolButton": {
+					"title": "Afmetingen"
+				},
+				"buildLineButton": {
+					"title": "Lijn bouwen"
+				},
+				"buildLinesButton": {
+					"title": "Lijnen bouwen"
+				},
+				"buildAngleButton": {
+					"title": "Hoek bouwen"
+				},
+				"buildEllipseButton": {
+					"title": "Ellips bouwen"
+				},
+				"buildCrossButton": {
+					"title": "Kruis bouwen"
+				},
+				"buildRectangleButton": {
+					"title": "Rechthoek bouwen"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Gefocuste meting verwijderen"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Alle metingen verwijderen"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Millimeters"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Centimeter"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Inches"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Pixels"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Standaard VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Aangepaste VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagittaal..."
+		},
+		"CoronalButton": {
+			"value": "Coronaal..."
+		},
+		"AxialButton": {
+			"value": "Axiaal..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Gebogen MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Op sagittaal..."
+			},
+			"OnCoronalButton": {
+				"value": "Op coronaal..."
+			},
+			"OnAxialButton": {
+				"value": "Op axiaal..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Breedte:"
+			},
+			"centerLabel": {
+				"text": "Centrum:"
+			},
+			"applyButton": {
+				"value": "Toepassen"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Annuleren"
+			},
+			"resetButton": {
+				"value": "Opnieuw instellen"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Fout"
+		},
+		"closeButton": {
+			"text": "Sluiten"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT-buik",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT vasculair",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT-bot",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT-hersenen",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT-borst",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT-longen",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Breedte",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Gecentreerd uitlijnen",
+		"vsdm-metadataDialog-title": "Metagegevens van DICOM-bestand",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "Tag-ID",
+		"vsdm-metadataTable-length": "Lengte",
+		"vsdm-metadataTable-description": "Beschrijving",
+		"vsdm-metadataTable-value": "Waarde",
+		"vsdm-customDicomVoiLutDialog-title": "Vensterniveau",
+		"vsdm-dialog-applyButton": "Toepassen",
+		"vsdm-dialog-cancelButton": "Annuleren",
+		"vsdm-dialog-resetButton": "Opnieuw instellen"
+	}
+}

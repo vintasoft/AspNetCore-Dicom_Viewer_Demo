@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Faili"
+		},
+		"viewLabel": {
+			"text": "Tazama"
+		},
+		"toolsLabel": {
+			"text": "Zana"
+		},
+		"measurementsLabel": {
+			"text": "Vipimo"
+		},
+		"showMobileMenuButton": {
+			"title": "Zaidi"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Pakia na uongeze faili za DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Futa akiba ya kipindi"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Onyesha metadata ya faili ya DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Skrini nzima"
+		},
+		"zoomOutButton": {
+			"title": "Kuza nje"
+		},
+		"zoomInButton": {
+			"title": "Vuta karibu"
+		},
+		"invertImageButton": {
+			"title": "Geuza picha"
+		},
+		"resetViewButton": {
+			"title": "Weka upya mwonekano"
+		},
+		"fitToWidthButton": {
+			"title": "Sawazisha picha kwa upana"
+		},
+		"fitToHeightButton": {
+			"title": "Sawazisha picha kwa urefu"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Tazama picha iliyo sawa"
+		},
+		"showTextOverlaysButton": {
+			"title": "Onyesha/ficha viwekelezo vya maandishi"
+		},
+		"showMeasurementsButton": {
+			"title": "Onyesha/ficha vipimo"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Chora picha kwa tafsiri"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Panua"
+		},
+		"browseToolButton": {
+			"title": "Vinjari muafaka"
+		},
+		"zoomToolButton": {
+			"title": "Kuza"
+		},
+		"windowLevelToolButton": {
+			"title": "Kiwango cha dirisha"
+		},
+		"measurementsToolButton": {
+			"title": "Vipimo"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Mipangilio ya kiwango cha dirisha cha DICOM"
+		},
+		"buildLineButton": {
+			"title": "Kujenga mstari"
+		},
+		"buildLinesButton": {
+			"title": "Tengeneza mistari"
+		},
+		"buildAngleButton": {
+			"title": "Kujenga angle"
+		},
+		"buildEllipseButton": {
+			"title": "Jenga duaradufu"
+		},
+		"buildCrossButton": {
+			"title": "Jenga msalaba"
+		},
+		"buildRectangleButton": {
+			"title": "Jenga mstatili"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Ondoa kipimo kilicholenga"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Ondoa vipimo vyote"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Milimita"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Sentimita"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Inchi"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Pixels"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Ficha Paneli ya Upande"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Meneja wa mfululizo wa DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Tazama"
+				},
+				"toolsLabel": {
+					"text": "Zana"
+				},
+				"measurementsLabel": {
+					"text": "Vipimo"
+				},
+				"showMobileMenuButton": {
+					"title": "Zaidi"
+				},
+				"invertImageButton": {
+					"title": "Geuza picha"
+				},
+				"resetViewButton": {
+					"title": "Weka upya mwonekano"
+				},
+				"fitToWidthButton": {
+					"title": "Sawazisha picha kwa upana"
+				},
+				"fitToHeightButton": {
+					"title": "Sawazisha picha kwa urefu"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Tazama picha iliyo sawa"
+				},
+				"showTextOverlaysButton": {
+					"title": "Onyesha/ficha viwekelezo vya maandishi"
+				},
+				"showMeasurementsButton": {
+					"title": "Onyesha/ficha vipimo"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Wastani"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Skrini nzima"
+				},
+				"browseToolButton": {
+					"title": "Vinjari muafaka"
+				},
+				"panToolButton": {
+					"title": "Panua"
+				},
+				"zoomToolButton": {
+					"title": "Kuza"
+				},
+				"rotate3dToolButton": {
+					"title": "Zungusha 3D"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Kiwango cha dirisha"
+				},
+				"measurementsToolButton": {
+					"title": "Vipimo"
+				},
+				"buildLineButton": {
+					"title": "Kujenga mstari"
+				},
+				"buildLinesButton": {
+					"title": "Tengeneza mistari"
+				},
+				"buildAngleButton": {
+					"title": "Kujenga angle"
+				},
+				"buildEllipseButton": {
+					"title": "Jenga duaradufu"
+				},
+				"buildCrossButton": {
+					"title": "Jenga msalaba"
+				},
+				"buildRectangleButton": {
+					"title": "Jenga mstatili"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Ondoa kipimo kilicholenga"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Ondoa vipimo vyote"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Milimita"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Sentimita"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Inchi"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Pixels"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "VOI LUT chaguomsingi"
+		},
+		"customVoiLutButton": {
+			"value": "VOI LUT Maalum..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagittal..."
+		},
+		"CoronalButton": {
+			"value": "Coronal..."
+		},
+		"AxialButton": {
+			"value": "Axial..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "MPR iliyopinda"
+			},
+			"OnSagittalButton": {
+				"value": "Kwenye sagittal..."
+			},
+			"OnCoronalButton": {
+				"value": "Kwenye corona..."
+			},
+			"OnAxialButton": {
+				"value": "Kwenye axial ..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "sawa"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Upana:"
+			},
+			"centerLabel": {
+				"text": "Kituo:"
+			},
+			"applyButton": {
+				"value": "Omba"
+			},
+			"okButton": {
+				"value": "sawa"
+			},
+			"cancelButton": {
+				"value": "Ghairi"
+			},
+			"resetButton": {
+				"value": "Weka upya"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Hitilafu"
+		},
+		"closeButton": {
+			"text": "Funga"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT Tumbo",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT Mishipa",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Mfupa",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT Ubongo",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT Kifua",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT Mapafu",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Upana",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Kituo",
+		"vsdm-metadataDialog-title": "Metadata ya faili ya DICOM",
+		"vsdm-dialog-okButton": "sawa",
+		"vsdm-metadataTable-tagId": "Kitambulisho cha lebo",
+		"vsdm-metadataTable-length": "Urefu",
+		"vsdm-metadataTable-description": "Maelezo",
+		"vsdm-metadataTable-value": "Thamani",
+		"vsdm-customDicomVoiLutDialog-title": "Kiwango cha Dirisha",
+		"vsdm-dialog-applyButton": "Omba",
+		"vsdm-dialog-cancelButton": "Ghairi",
+		"vsdm-dialog-resetButton": "Weka upya"
+	}
+}

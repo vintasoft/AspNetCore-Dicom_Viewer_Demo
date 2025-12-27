@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Fail"
+		},
+		"viewLabel": {
+			"text": "Vaade"
+		},
+		"toolsLabel": {
+			"text": "Tööriistad"
+		},
+		"measurementsLabel": {
+			"text": "Mõõdud"
+		},
+		"showMobileMenuButton": {
+			"title": "Rohkem"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Laadige üles ja lisage DICOM-failid"
+		},
+		"clearSessionCacheButton": {
+			"title": "Tühjendage seansi vahemälu"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Kuva DICOM-faili metaandmed"
+		},
+		"fullScreenButton": {
+			"title": "Täisekraan"
+		},
+		"zoomOutButton": {
+			"title": "Suumi välja"
+		},
+		"zoomInButton": {
+			"title": "Suurenda"
+		},
+		"invertImageButton": {
+			"title": "Pildi ümberpööramine"
+		},
+		"resetViewButton": {
+			"title": "Vaate lähtestamine"
+		},
+		"fitToWidthButton": {
+			"title": "Sobitage pilt laiusega"
+		},
+		"fitToHeightButton": {
+			"title": "Sobitage pilt kõrgusele"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Vaadake pilti kõige paremini sobivas kohas"
+		},
+		"showTextOverlaysButton": {
+			"title": "Kuva/peida teksti ülekatted"
+		},
+		"showMeasurementsButton": {
+			"title": "Näita/peida mõõdud"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Joonistage pilt interpolatsiooniga"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Sirvige raame"
+		},
+		"zoomToolButton": {
+			"title": "Suumi"
+		},
+		"windowLevelToolButton": {
+			"title": "Akna tase"
+		},
+		"measurementsToolButton": {
+			"title": "Mõõdud"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOMi aknataseme sätted"
+		},
+		"buildLineButton": {
+			"title": "Ehitage rida"
+		},
+		"buildLinesButton": {
+			"title": "Ehitage jooni"
+		},
+		"buildAngleButton": {
+			"title": "Ehitamise nurk"
+		},
+		"buildEllipseButton": {
+			"title": "Ehitage ellips"
+		},
+		"buildCrossButton": {
+			"title": "Ehitage rist"
+		},
+		"buildRectangleButton": {
+			"title": "Ehitage ristkülik"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Eemaldage fokuseeritud mõõtmine"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Eemaldage kõik mõõtmised"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Millimeetrid"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Sentimeetrid"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Tollid"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "pikslid"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Peida külgpaneel"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM-seeria haldur"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Vaade"
+				},
+				"toolsLabel": {
+					"text": "Tööriistad"
+				},
+				"measurementsLabel": {
+					"text": "Mõõdud"
+				},
+				"showMobileMenuButton": {
+					"title": "Rohkem"
+				},
+				"invertImageButton": {
+					"title": "Pildi ümberpööramine"
+				},
+				"resetViewButton": {
+					"title": "Vaate lähtestamine"
+				},
+				"fitToWidthButton": {
+					"title": "Sobitage pilt laiusega"
+				},
+				"fitToHeightButton": {
+					"title": "Sobitage pilt kõrgusele"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Vaadake pilti kõige paremini sobivas kohas"
+				},
+				"showTextOverlaysButton": {
+					"title": "Kuva/peida teksti ülekatted"
+				},
+				"showMeasurementsButton": {
+					"title": "Näita/peida mõõdud"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Keskmine"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Täisekraan"
+				},
+				"browseToolButton": {
+					"title": "Sirvige raame"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Suumi"
+				},
+				"rotate3dToolButton": {
+					"title": "Pööra 3D"
+				},
+				"rollToolButton": {
+					"title": "Rulli"
+				},
+				"windowLevelToolButton": {
+					"title": "Akna tase"
+				},
+				"measurementsToolButton": {
+					"title": "Mõõdud"
+				},
+				"buildLineButton": {
+					"title": "Ehitage rida"
+				},
+				"buildLinesButton": {
+					"title": "Ehitage jooni"
+				},
+				"buildAngleButton": {
+					"title": "Ehitamise nurk"
+				},
+				"buildEllipseButton": {
+					"title": "Ehitage ellips"
+				},
+				"buildCrossButton": {
+					"title": "Ehitage rist"
+				},
+				"buildRectangleButton": {
+					"title": "Ehitage ristkülik"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Eemaldage fokuseeritud mõõtmine"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Eemaldage kõik mõõtmised"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Millimeetrid"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Sentimeetrid"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Tollid"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "pikslid"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Vaikimisi VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Kohandatud VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagitaalne..."
+		},
+		"CoronalButton": {
+			"value": "Koronaalne..."
+		},
+		"AxialButton": {
+			"value": "Aksiaalne..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Kumer MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Sagittal..."
+			},
+			"OnCoronalButton": {
+				"value": "Koronaalil..."
+			},
+			"OnAxialButton": {
+				"value": "Aksiaalselt..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "Okei"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Laius:"
+			},
+			"centerLabel": {
+				"text": "Keskus:"
+			},
+			"applyButton": {
+				"value": "Rakenda"
+			},
+			"okButton": {
+				"value": "Okei"
+			},
+			"cancelButton": {
+				"value": "Tühista"
+			},
+			"resetButton": {
+				"value": "Lähtesta"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Viga"
+		},
+		"closeButton": {
+			"text": "Sulge"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT kõht",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "Vaskulaarne CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Luu",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT aju",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT Rind",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT kopsud",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Laius",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Keskus",
+		"vsdm-metadataDialog-title": "DICOM-faili metaandmed",
+		"vsdm-dialog-okButton": "Okei",
+		"vsdm-metadataTable-tagId": "Sildi ID",
+		"vsdm-metadataTable-length": "Pikkus",
+		"vsdm-metadataTable-description": "Kirjeldus",
+		"vsdm-metadataTable-value": "Väärtus",
+		"vsdm-customDicomVoiLutDialog-title": "Akna tase",
+		"vsdm-dialog-applyButton": "Rakenda",
+		"vsdm-dialog-cancelButton": "Tühista",
+		"vsdm-dialog-resetButton": "Lähtesta"
+	}
+}

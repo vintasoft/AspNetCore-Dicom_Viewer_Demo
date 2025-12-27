@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Dosya"
+		},
+		"viewLabel": {
+			"text": "Görüntüle"
+		},
+		"toolsLabel": {
+			"text": "Araçlar"
+		},
+		"measurementsLabel": {
+			"text": "Ölçümler"
+		},
+		"showMobileMenuButton": {
+			"title": "Daha fazla"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "DICOM dosyalarını yükleyin ve ekleyin"
+		},
+		"clearSessionCacheButton": {
+			"title": "Oturum önbelleğini temizle"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM dosya meta verilerini göster"
+		},
+		"fullScreenButton": {
+			"title": "Tam ekran"
+		},
+		"zoomOutButton": {
+			"title": "Uzaklaştır"
+		},
+		"zoomInButton": {
+			"title": "Yakınlaştır"
+		},
+		"invertImageButton": {
+			"title": "Görüntüyü ters çevir"
+		},
+		"resetViewButton": {
+			"title": "Görüntüyü sıfırla"
+		},
+		"fitToWidthButton": {
+			"title": "Görüntüyü genişliğe sığdır"
+		},
+		"fitToHeightButton": {
+			"title": "Görüntüyü yüksekliğe sığdır"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Görüntüyü en iyi uyumda görüntüle"
+		},
+		"showTextOverlaysButton": {
+			"title": "Metin katmanlarını göster/gizle"
+		},
+		"showMeasurementsButton": {
+			"title": "Ölçümleri göster/gizle"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Görüntüyü enterpolasyonla çiz"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Kaydır"
+		},
+		"browseToolButton": {
+			"title": "Çerçevelere göz atın"
+		},
+		"zoomToolButton": {
+			"title": "Ölçek"
+		},
+		"windowLevelToolButton": {
+			"title": "Pencere seviyesi"
+		},
+		"measurementsToolButton": {
+			"title": "Ölçümler"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM pencere seviyesi ayarları"
+		},
+		"buildLineButton": {
+			"title": "Çizgi oluştur"
+		},
+		"buildLinesButton": {
+			"title": "Çizgiler oluştur"
+		},
+		"buildAngleButton": {
+			"title": "Açı oluştur"
+		},
+		"buildEllipseButton": {
+			"title": "Elips oluştur"
+		},
+		"buildCrossButton": {
+			"title": "Çapraz oluştur"
+		},
+		"buildRectangleButton": {
+			"title": "Dikdörtgen oluştur"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Odaklanmış ölçümü kaldır"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Tüm ölçümleri kaldır"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Milimetre"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Santimetre"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "İnç"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Piksel"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Yan Paneli Gizle"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM serisi yöneticisi"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Görüntüle"
+				},
+				"toolsLabel": {
+					"text": "Araçlar"
+				},
+				"measurementsLabel": {
+					"text": "Ölçümler"
+				},
+				"showMobileMenuButton": {
+					"title": "Daha fazla"
+				},
+				"invertImageButton": {
+					"title": "Görüntüyü ters çevir"
+				},
+				"resetViewButton": {
+					"title": "Görüntüyü sıfırla"
+				},
+				"fitToWidthButton": {
+					"title": "Görüntüyü genişliğe sığdır"
+				},
+				"fitToHeightButton": {
+					"title": "Görüntüyü yüksekliğe sığdır"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Görüntüyü en iyi uyumda görüntüle"
+				},
+				"showTextOverlaysButton": {
+					"title": "Metin katmanlarını göster/gizle"
+				},
+				"showMeasurementsButton": {
+					"title": "Ölçümleri göster/gizle"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Ortalama"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Tam ekran"
+				},
+				"browseToolButton": {
+					"title": "Çerçevelere göz atın"
+				},
+				"panToolButton": {
+					"title": "Kaydır"
+				},
+				"zoomToolButton": {
+					"title": "Ölçek"
+				},
+				"rotate3dToolButton": {
+					"title": "Döndür 3D"
+				},
+				"rollToolButton": {
+					"title": "Yuvarla"
+				},
+				"windowLevelToolButton": {
+					"title": "Pencere seviyesi"
+				},
+				"measurementsToolButton": {
+					"title": "Ölçümler"
+				},
+				"buildLineButton": {
+					"title": "Çizgi oluştur"
+				},
+				"buildLinesButton": {
+					"title": "Çizgiler oluştur"
+				},
+				"buildAngleButton": {
+					"title": "Açı oluştur"
+				},
+				"buildEllipseButton": {
+					"title": "Elips oluştur"
+				},
+				"buildCrossButton": {
+					"title": "Çapraz oluştur"
+				},
+				"buildRectangleButton": {
+					"title": "Dikdörtgen oluştur"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Odaklanmış ölçümü kaldır"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Tüm ölçümleri kaldır"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Milimetre"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Santimetre"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "İnç"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Piksel"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Varsayılan VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Özel VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagittal..."
+		},
+		"CoronalButton": {
+			"value": "Koronal..."
+		},
+		"AxialButton": {
+			"value": "Eksenel..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Eğrisel MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Sagittalde..."
+			},
+			"OnCoronalButton": {
+				"value": "Koronalde..."
+			},
+			"OnAxialButton": {
+				"value": "Eksenelde..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "Tamam"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Genişlik:"
+			},
+			"centerLabel": {
+				"text": "Merkez:"
+			},
+			"applyButton": {
+				"value": "Uygula"
+			},
+			"okButton": {
+				"value": "Tamam"
+			},
+			"cancelButton": {
+				"value": "İptal"
+			},
+			"resetButton": {
+				"value": "Sıfırla"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Hata"
+		},
+		"closeButton": {
+			"text": "Kapat"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT Karın",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT Vasküler",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "BT Kemik",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "BT Beyin",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "BT Göğüs",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT Akciğerler",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Genişlik",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Ortaya Hizala",
+		"vsdm-metadataDialog-title": "DICOM Dosyası Meta Verileri",
+		"vsdm-dialog-okButton": "Tamam",
+		"vsdm-metadataTable-tagId": "Etiket Kimliği",
+		"vsdm-metadataTable-length": "Uzunluk",
+		"vsdm-metadataTable-description": "Tanım",
+		"vsdm-metadataTable-value": "Değer",
+		"vsdm-customDicomVoiLutDialog-title": "Pencere Düzeyi",
+		"vsdm-dialog-applyButton": "Uygula",
+		"vsdm-dialog-cancelButton": "İptal",
+		"vsdm-dialog-resetButton": "Sıfırla"
+	}
+}

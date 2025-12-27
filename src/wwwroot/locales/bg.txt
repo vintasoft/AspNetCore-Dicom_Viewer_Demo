@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"viewLabel": {
+			"text": "Преглед"
+		},
+		"toolsLabel": {
+			"text": "Инструменти"
+		},
+		"measurementsLabel": {
+			"text": "Измервания"
+		},
+		"showMobileMenuButton": {
+			"title": "Още"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Качвайте и добавяйте DICOM файлове"
+		},
+		"clearSessionCacheButton": {
+			"title": "Изчистване на кеша на сесията"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Показване на метаданни на DICOM файл"
+		},
+		"fullScreenButton": {
+			"title": "Цял екран"
+		},
+		"zoomOutButton": {
+			"title": "Намаляване"
+		},
+		"zoomInButton": {
+			"title": "Увеличаване"
+		},
+		"invertImageButton": {
+			"title": "Обърнете изображението"
+		},
+		"resetViewButton": {
+			"title": "Нулиране на изгледа"
+		},
+		"fitToWidthButton": {
+			"title": "Напасване на изображението към ширината"
+		},
+		"fitToHeightButton": {
+			"title": "Напасване на изображението към височината"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Вижте изображението в най-добро съответствие"
+		},
+		"showTextOverlaysButton": {
+			"title": "Показване/скриване на текстови наслагвания"
+		},
+		"showMeasurementsButton": {
+			"title": "Показване/скриване на измерванията"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Начертайте изображение с интерполация"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Панорамиране"
+		},
+		"browseToolButton": {
+			"title": "Преглед на рамки"
+		},
+		"zoomToolButton": {
+			"title": "Мащаб"
+		},
+		"windowLevelToolButton": {
+			"title": "Ниво на прозореца"
+		},
+		"measurementsToolButton": {
+			"title": "Измервания"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Настройки на ниво прозорец DICOM"
+		},
+		"buildLineButton": {
+			"title": "Строителна линия"
+		},
+		"buildLinesButton": {
+			"title": "Изграждане на линии"
+		},
+		"buildAngleButton": {
+			"title": "Ъгъл на изграждане"
+		},
+		"buildEllipseButton": {
+			"title": "Изграждане на елипса"
+		},
+		"buildCrossButton": {
+			"title": "Изградете кръст"
+		},
+		"buildRectangleButton": {
+			"title": "Изграждане на правоъгълник"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Премахнете фокусираното измерване"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Премахнете всички измервания"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Милиметри"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Сантиметри"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Инчове"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Пиксели"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Скриване на страничния панел"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Мениджър на серия DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Преглед"
+				},
+				"toolsLabel": {
+					"text": "Инструменти"
+				},
+				"measurementsLabel": {
+					"text": "Измервания"
+				},
+				"showMobileMenuButton": {
+					"title": "Още"
+				},
+				"invertImageButton": {
+					"title": "Обърнете изображението"
+				},
+				"resetViewButton": {
+					"title": "Нулиране на изгледа"
+				},
+				"fitToWidthButton": {
+					"title": "Напасване на изображението към ширината"
+				},
+				"fitToHeightButton": {
+					"title": "Напасване на изображението към височината"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Вижте изображението в най-добро съответствие"
+				},
+				"showTextOverlaysButton": {
+					"title": "Показване/скриване на текстови наслагвания"
+				},
+				"showMeasurementsButton": {
+					"title": "Показване/скриване на измерванията"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Средно"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Цял екран"
+				},
+				"browseToolButton": {
+					"title": "Преглед на рамки"
+				},
+				"panToolButton": {
+					"title": "Панорамиране"
+				},
+				"zoomToolButton": {
+					"title": "Мащаб"
+				},
+				"rotate3dToolButton": {
+					"title": "Завъртете 3D"
+				},
+				"rollToolButton": {
+					"title": "Руло"
+				},
+				"windowLevelToolButton": {
+					"title": "Ниво на прозореца"
+				},
+				"measurementsToolButton": {
+					"title": "Измервания"
+				},
+				"buildLineButton": {
+					"title": "Строителна линия"
+				},
+				"buildLinesButton": {
+					"title": "Изграждане на линии"
+				},
+				"buildAngleButton": {
+					"title": "Ъгъл на изграждане"
+				},
+				"buildEllipseButton": {
+					"title": "Изграждане на елипса"
+				},
+				"buildCrossButton": {
+					"title": "Изградете кръст"
+				},
+				"buildRectangleButton": {
+					"title": "Изграждане на правоъгълник"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Премахнете фокусираното измерване"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Премахнете всички измервания"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Милиметри"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Сантиметри"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Инчове"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Пиксели"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "VOI LUT по подразбиране"
+		},
+		"customVoiLutButton": {
+			"value": "Персонализиран VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Сагитален..."
+		},
+		"CoronalButton": {
+			"value": "Коронален..."
+		},
+		"AxialButton": {
+			"value": "Аксиален..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Извит MPR"
+			},
+			"OnSagittalButton": {
+				"value": "На сагитален..."
+			},
+			"OnCoronalButton": {
+				"value": "На коронал..."
+			},
+			"OnAxialButton": {
+				"value": "На аксиален..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Ширина:"
+			},
+			"centerLabel": {
+				"text": "център:"
+			},
+			"applyButton": {
+				"value": "Приложи"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"cancelButton": {
+				"value": "Отказ"
+			},
+			"resetButton": {
+				"value": "Нулиране"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Грешка"
+		},
+		"closeButton": {
+			"text": "Затвори"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "КТ на корема",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT съдова",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT кост",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "КТ на мозъка",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "КТ на гръдния кош",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT бели дробове",
+		"vsdm-selectDicomVoiLutTypePanel-width": "ширина",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Подравняване в центъра",
+		"vsdm-metadataDialog-title": "DICOM файлови метаданни",
+		"vsdm-dialog-okButton": "ОК",
+		"vsdm-metadataTable-tagId": "ID на етикет",
+		"vsdm-metadataTable-length": "Дължина",
+		"vsdm-metadataTable-description": "Описание",
+		"vsdm-metadataTable-value": "Стойността",
+		"vsdm-customDicomVoiLutDialog-title": "Ниво на прозореца",
+		"vsdm-dialog-applyButton": "Приложи",
+		"vsdm-dialog-cancelButton": "Отказ",
+		"vsdm-dialog-resetButton": "Нулиране"
+	}
+}

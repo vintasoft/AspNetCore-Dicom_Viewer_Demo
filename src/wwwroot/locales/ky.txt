@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"viewLabel": {
+			"text": "Көрүү"
+		},
+		"toolsLabel": {
+			"text": "Куралдар"
+		},
+		"measurementsLabel": {
+			"text": "Өлчөөлөр"
+		},
+		"showMobileMenuButton": {
+			"title": "Дагы"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "DICOM файлдарын жүктөө жана кошуу"
+		},
+		"clearSessionCacheButton": {
+			"title": "Сеанс кэшин тазалоо"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM файлынын метадайындарын көрсөтүү"
+		},
+		"fullScreenButton": {
+			"title": "Толук экран"
+		},
+		"zoomOutButton": {
+			"title": "Кичирейтүү"
+		},
+		"zoomInButton": {
+			"title": "Чоңойтуу"
+		},
+		"invertImageButton": {
+			"title": "Сүрөттү айлантуу"
+		},
+		"resetViewButton": {
+			"title": "Көрүнүштү калыбына келтирүү"
+		},
+		"fitToWidthButton": {
+			"title": "Сүрөттү туурасына тууралаңыз"
+		},
+		"fitToHeightButton": {
+			"title": "Сүрөттү бийиктикке тууралаңыз"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Сүрөттү эң туура көрүү"
+		},
+		"showTextOverlaysButton": {
+			"title": "Текст катмарларын көрсөтүү/жашыруу"
+		},
+		"showMeasurementsButton": {
+			"title": "Өлчөөлөрдү көрсөтүү/жашыруу"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Интерполяция менен сүрөт тартыңыз"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Пан"
+		},
+		"browseToolButton": {
+			"title": "Кадрларды карап чыгуу"
+		},
+		"zoomToolButton": {
+			"title": "Чоңойтуу"
+		},
+		"windowLevelToolButton": {
+			"title": "Терезе деңгээли"
+		},
+		"measurementsToolButton": {
+			"title": "Өлчөөлөр"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM терезе деңгээлинин орнотуулары"
+		},
+		"buildLineButton": {
+			"title": "Куруу линиясы"
+		},
+		"buildLinesButton": {
+			"title": "линияларды куруу"
+		},
+		"buildAngleButton": {
+			"title": "Куруу бурчу"
+		},
+		"buildEllipseButton": {
+			"title": "Эллипс куруу"
+		},
+		"buildCrossButton": {
+			"title": "Крест куруу"
+		},
+		"buildRectangleButton": {
+			"title": "Төрт бурчтук куруу"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Фокусталган өлчөөнү алып салуу"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Бардык өлчөөлөрдү алып салуу"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Миллиметрлер"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Сантиметр"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "дюйм"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Пикселдер"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Каптал панелди жашыруу"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM сериясынын менеджери"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Көрүү"
+				},
+				"toolsLabel": {
+					"text": "Куралдар"
+				},
+				"measurementsLabel": {
+					"text": "Өлчөөлөр"
+				},
+				"showMobileMenuButton": {
+					"title": "Дагы"
+				},
+				"invertImageButton": {
+					"title": "Сүрөттү айлантуу"
+				},
+				"resetViewButton": {
+					"title": "Көрүнүштү калыбына келтирүү"
+				},
+				"fitToWidthButton": {
+					"title": "Сүрөттү туурасына тууралаңыз"
+				},
+				"fitToHeightButton": {
+					"title": "Сүрөттү бийиктикке тууралаңыз"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Сүрөттү эң туура көрүү"
+				},
+				"showTextOverlaysButton": {
+					"title": "Текст катмарларын көрсөтүү/жашыруу"
+				},
+				"showMeasurementsButton": {
+					"title": "Өлчөөлөрдү көрсөтүү/жашыруу"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MiniIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Орточо"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Толук экран"
+				},
+				"browseToolButton": {
+					"title": "Кадрларды карап чыгуу"
+				},
+				"panToolButton": {
+					"title": "Пан"
+				},
+				"zoomToolButton": {
+					"title": "Чоңойтуу"
+				},
+				"rotate3dToolButton": {
+					"title": "3D айлантуу"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Терезе деңгээли"
+				},
+				"measurementsToolButton": {
+					"title": "Өлчөөлөр"
+				},
+				"buildLineButton": {
+					"title": "Куруу линиясы"
+				},
+				"buildLinesButton": {
+					"title": "линияларды куруу"
+				},
+				"buildAngleButton": {
+					"title": "Куруу бурчу"
+				},
+				"buildEllipseButton": {
+					"title": "Эллипс куруу"
+				},
+				"buildCrossButton": {
+					"title": "Крест куруу"
+				},
+				"buildRectangleButton": {
+					"title": "Төрт бурчтук куруу"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Фокусталган өлчөөнү алып салуу"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Бардык өлчөөлөрдү алып салуу"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Миллиметрлер"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Сантиметр"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "дюйм"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Пикселдер"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Демейки VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Ыңгайлаштырылган VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Сагиттал..."
+		},
+		"CoronalButton": {
+			"value": "Coronal..."
+		},
+		"AxialButton": {
+			"value": "Октук..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Curved MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Сагиттал боюнча..."
+			},
+			"OnCoronalButton": {
+				"value": "Коронал боюнча..."
+			},
+			"OnAxialButton": {
+				"value": "Октук боюнча..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "макул"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Туурасы:"
+			},
+			"centerLabel": {
+				"text": "Борбор:"
+			},
+			"applyButton": {
+				"value": "Колдонуу"
+			},
+			"okButton": {
+				"value": "макул"
+			},
+			"cancelButton": {
+				"value": "Жокко чыгаруу"
+			},
+			"resetButton": {
+				"value": "Калыбына келтирүү"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Ката"
+		},
+		"closeButton": {
+			"text": "Жабуу"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "КТ карын",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "КТ тамыр",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Bone",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT Brain",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "КТ көкүрөк",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "Өпкө КТ",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Туурасы",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Борбор",
+		"vsdm-metadataDialog-title": "DICOM файлынын метаберилиштери",
+		"vsdm-dialog-okButton": "макул",
+		"vsdm-metadataTable-tagId": "Тег ID",
+		"vsdm-metadataTable-length": "Узундук",
+		"vsdm-metadataTable-description": "Description",
+		"vsdm-metadataTable-value": "Нарк",
+		"vsdm-customDicomVoiLutDialog-title": "Терезе деңгээли",
+		"vsdm-dialog-applyButton": "Колдонуу",
+		"vsdm-dialog-cancelButton": "Жокко чыгаруу",
+		"vsdm-dialog-resetButton": "Калыбына келтирүү"
+	}
+}

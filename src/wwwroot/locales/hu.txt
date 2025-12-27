@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Fájl"
+		},
+		"viewLabel": {
+			"text": "Megtekintés"
+		},
+		"toolsLabel": {
+			"text": "Eszközök"
+		},
+		"measurementsLabel": {
+			"text": "Mérések"
+		},
+		"showMobileMenuButton": {
+			"title": "Továbbiak"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "DICOM-fájlok feltöltése és hozzáadása"
+		},
+		"clearSessionCacheButton": {
+			"title": "A munkamenet gyorsítótárának törlése"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM-fájl metaadatainak megjelenítése"
+		},
+		"fullScreenButton": {
+			"title": "Teljes képernyő"
+		},
+		"zoomOutButton": {
+			"title": "Kicsinyítés"
+		},
+		"zoomInButton": {
+			"title": "Nagyítás"
+		},
+		"invertImageButton": {
+			"title": "Kép megfordítása"
+		},
+		"resetViewButton": {
+			"title": "Nézet visszaállítása"
+		},
+		"fitToWidthButton": {
+			"title": "Kép szélességhez igazítása"
+		},
+		"fitToHeightButton": {
+			"title": "Igazítsa a képet a magassághoz"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Tekintse meg a képet a legjobb illeszkedésben"
+		},
+		"showTextOverlaysButton": {
+			"title": "Szövegfedvények megjelenítése/elrejtése"
+		},
+		"showMeasurementsButton": {
+			"title": "Mérések megjelenítése/elrejtése"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Rajzolj képet interpolációval"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Keretek böngészése"
+		},
+		"zoomToolButton": {
+			"title": "Skála"
+		},
+		"windowLevelToolButton": {
+			"title": "Ablak szintje"
+		},
+		"measurementsToolButton": {
+			"title": "Mérések"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM ablakszint beállításai"
+		},
+		"buildLineButton": {
+			"title": "Vonal építése"
+		},
+		"buildLinesButton": {
+			"title": "Építs vonalakat"
+		},
+		"buildAngleButton": {
+			"title": "Építési szög"
+		},
+		"buildEllipseButton": {
+			"title": "Építsen ellipszist"
+		},
+		"buildCrossButton": {
+			"title": "Építs keresztet"
+		},
+		"buildRectangleButton": {
+			"title": "Építs téglalapot"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Távolítsa el a fókuszált mérést"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Távolítson el minden mérést"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Milliméter"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "centiméter"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Hüvelyk"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Pixelek"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Oldalpanel elrejtése"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM sorozat menedzser"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Megtekintés"
+				},
+				"toolsLabel": {
+					"text": "Eszközök"
+				},
+				"measurementsLabel": {
+					"text": "Mérések"
+				},
+				"showMobileMenuButton": {
+					"title": "Továbbiak"
+				},
+				"invertImageButton": {
+					"title": "Kép megfordítása"
+				},
+				"resetViewButton": {
+					"title": "Nézet visszaállítása"
+				},
+				"fitToWidthButton": {
+					"title": "Kép szélességhez igazítása"
+				},
+				"fitToHeightButton": {
+					"title": "Igazítsa a képet a magassághoz"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Tekintse meg a képet a legjobb illeszkedésben"
+				},
+				"showTextOverlaysButton": {
+					"title": "Szövegfedvények megjelenítése/elrejtése"
+				},
+				"showMeasurementsButton": {
+					"title": "Mérések megjelenítése/elrejtése"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Átlagos"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Teljes képernyő"
+				},
+				"browseToolButton": {
+					"title": "Keretek böngészése"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Skála"
+				},
+				"rotate3dToolButton": {
+					"title": "3D forgatás"
+				},
+				"rollToolButton": {
+					"title": "Tekercs"
+				},
+				"windowLevelToolButton": {
+					"title": "Ablak szintje"
+				},
+				"measurementsToolButton": {
+					"title": "Mérések"
+				},
+				"buildLineButton": {
+					"title": "Vonal építése"
+				},
+				"buildLinesButton": {
+					"title": "Építs vonalakat"
+				},
+				"buildAngleButton": {
+					"title": "Építési szög"
+				},
+				"buildEllipseButton": {
+					"title": "Építsen ellipszist"
+				},
+				"buildCrossButton": {
+					"title": "Építs keresztet"
+				},
+				"buildRectangleButton": {
+					"title": "Építs téglalapot"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Távolítsa el a fókuszált mérést"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Távolítson el minden mérést"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Milliméter"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "centiméter"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Hüvelyk"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Pixelek"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Alapértelmezett VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Egyedi VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Szagittális..."
+		},
+		"CoronalButton": {
+			"value": "Koronális..."
+		},
+		"AxialButton": {
+			"value": "Tengelyirányú..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Ívelt MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Szagittálisan..."
+			},
+			"OnCoronalButton": {
+				"value": "A koronát..."
+			},
+			"OnAxialButton": {
+				"value": "Axiálisan..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "Rendben"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Szélesség:"
+			},
+			"centerLabel": {
+				"text": "Központ:"
+			},
+			"applyButton": {
+				"value": "Alkalmaz"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"cancelButton": {
+				"value": "Mégse"
+			},
+			"resetButton": {
+				"value": "Visszaállítás"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Hiba"
+		},
+		"closeButton": {
+			"text": "Bezárás"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT has",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "Vaszkuláris CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Csont",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT agy",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT mellkas",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT tüdő",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Szélesség",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Igazítás középre",
+		"vsdm-metadataDialog-title": "DICOM fájl metaadatai",
+		"vsdm-dialog-okButton": "Rendben",
+		"vsdm-metadataTable-tagId": "Címkeazonosító",
+		"vsdm-metadataTable-length": "Hossz",
+		"vsdm-metadataTable-description": "Leírás",
+		"vsdm-metadataTable-value": "Az érték",
+		"vsdm-customDicomVoiLutDialog-title": "Ablakszint",
+		"vsdm-dialog-applyButton": "Alkalmaz",
+		"vsdm-dialog-cancelButton": "Mégse",
+		"vsdm-dialog-resetButton": "Visszaállítás"
+	}
+}

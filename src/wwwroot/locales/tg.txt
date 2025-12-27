@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"viewLabel": {
+			"text": "Намоиш"
+		},
+		"toolsLabel": {
+			"text": "Воситаҳо"
+		},
+		"measurementsLabel": {
+			"text": "Андозаҳо"
+		},
+		"showMobileMenuButton": {
+			"title": "Бештар"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Файлҳои DICOM-ро бор кунед ва илова кунед"
+		},
+		"clearSessionCacheButton": {
+			"title": "Тоза кардани кэши сессия"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Нишон додани метамаълумоти файли DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Тамомсафҳа"
+		},
+		"zoomOutButton": {
+			"title": "Масоҳат кардан"
+		},
+		"zoomInButton": {
+			"title": "Масштаб кардан"
+		},
+		"invertImageButton": {
+			"title": "Табдил додани тасвир"
+		},
+		"resetViewButton": {
+			"title": "Бозгашти намоиш"
+		},
+		"fitToWidthButton": {
+			"title": "Тасвирро ба паҳнӣ мувофиқ кунед"
+		},
+		"fitToHeightButton": {
+			"title": "Тасвирро ба баландӣ мувофиқ кунед"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Тасвирро бо беҳтарин мувофиқ тамошо кунед"
+		},
+		"showTextOverlaysButton": {
+			"title": "Намоиш/пинҳон кардани қабатҳои матн"
+		},
+		"showMeasurementsButton": {
+			"title": "Нишон додан/пинҳон кардани андозагирӣ"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Тасвирро бо интерполясия кашед"
+		},
+		"mprButton": {
+			"title": "МПР"
+		},
+		"panToolButton": {
+			"title": "Пан"
+		},
+		"browseToolButton": {
+			"title": "Чорчубахоро паймоиш кунед"
+		},
+		"zoomToolButton": {
+			"title": "Масштаб"
+		},
+		"windowLevelToolButton": {
+			"title": "Сатҳи тиреза"
+		},
+		"measurementsToolButton": {
+			"title": "Андозаҳо"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Танзимоти сатҳи равзанаи DICOM"
+		},
+		"buildLineButton": {
+			"title": "Хатти сохтмон"
+		},
+		"buildLinesButton": {
+			"title": "Сохтани хатҳо"
+		},
+		"buildAngleButton": {
+			"title": "Кунҷи сохтмон"
+		},
+		"buildEllipseButton": {
+			"title": "Эллипс созед"
+		},
+		"buildCrossButton": {
+			"title": "Сохтани салиб"
+		},
+		"buildRectangleButton": {
+			"title": "Сохтани росткунҷа"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Андозаи мутамарказро хориҷ кунед"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Ҳама андозагириҳоро хориҷ кунед"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Миллиметр"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Сантиметр"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "инч"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Пикселҳо"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Панели паҳлӯро пинҳон кунед"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Менеҷери силсилаи DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Намоиш"
+				},
+				"toolsLabel": {
+					"text": "Воситаҳо"
+				},
+				"measurementsLabel": {
+					"text": "Андозаҳо"
+				},
+				"showMobileMenuButton": {
+					"title": "Бештар"
+				},
+				"invertImageButton": {
+					"title": "Табдил додани тасвир"
+				},
+				"resetViewButton": {
+					"title": "Бозгашти намоиш"
+				},
+				"fitToWidthButton": {
+					"title": "Тасвирро ба паҳнӣ мувофиқ кунед"
+				},
+				"fitToHeightButton": {
+					"title": "Тасвирро ба баландӣ мувофиқ кунед"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Тасвирро бо беҳтарин мувофиқ тамошо кунед"
+				},
+				"showTextOverlaysButton": {
+					"title": "Намоиш/пинҳон кардани қабатҳои матн"
+				},
+				"showMeasurementsButton": {
+					"title": "Нишон додан/пинҳон кардани андозагирӣ"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "МПР"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MiniIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Миёна"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Тамомсафҳа"
+				},
+				"browseToolButton": {
+					"title": "Чорчубахоро паймоиш кунед"
+				},
+				"panToolButton": {
+					"title": "Пан"
+				},
+				"zoomToolButton": {
+					"title": "Масштаб"
+				},
+				"rotate3dToolButton": {
+					"title": "3D гардиш кунед"
+				},
+				"rollToolButton": {
+					"title": "Рол"
+				},
+				"windowLevelToolButton": {
+					"title": "Сатҳи тиреза"
+				},
+				"measurementsToolButton": {
+					"title": "Андозаҳо"
+				},
+				"buildLineButton": {
+					"title": "Хатти сохтмон"
+				},
+				"buildLinesButton": {
+					"title": "Сохтани хатҳо"
+				},
+				"buildAngleButton": {
+					"title": "Кунҷи сохтмон"
+				},
+				"buildEllipseButton": {
+					"title": "Эллипс созед"
+				},
+				"buildCrossButton": {
+					"title": "Сохтани салиб"
+				},
+				"buildRectangleButton": {
+					"title": "Сохтани росткунҷа"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Андозаи мутамарказро хориҷ кунед"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Ҳама андозагириҳоро хориҷ кунед"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Миллиметр"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Сантиметр"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "инч"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Пикселҳо"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "VOI LUT пешфарз"
+		},
+		"customVoiLutButton": {
+			"value": "VOI LUT фармоишӣ..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Сагиттал..."
+		},
+		"CoronalButton": {
+			"value": "Коронал..."
+		},
+		"AxialButton": {
+			"value": "Аксиал..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "MPR каҷ"
+			},
+			"OnSagittalButton": {
+				"value": "Дар сагитал..."
+			},
+			"OnCoronalButton": {
+				"value": "Дар бораи корона..."
+			},
+			"OnAxialButton": {
+				"value": "Дар меҳвар..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "ДУРУСТ"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Бар:"
+			},
+			"centerLabel": {
+				"text": "Марказ:"
+			},
+			"applyButton": {
+				"value": "Муроҷиат кунед"
+			},
+			"okButton": {
+				"value": "ДУРУСТ"
+			},
+			"cancelButton": {
+				"value": "Бекор кардан"
+			},
+			"resetButton": {
+				"value": "Бозсозӣ"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Хатогӣ"
+		},
+		"closeButton": {
+			"text": "Пӯшед"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "КТ шикам",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "Рагҳои КТ",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Bone",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT мағзи сар",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "Сандуқи CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "КТ шушҳо",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Васеъ",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Марказ",
+		"vsdm-metadataDialog-title": "Метамаълумоти файли DICOM",
+		"vsdm-dialog-okButton": "ДУРУСТ",
+		"vsdm-metadataTable-tagId": "Тег ID",
+		"vsdm-metadataTable-length": "Дарозӣ",
+		"vsdm-metadataTable-description": "Тавсифи",
+		"vsdm-metadataTable-value": "Арзиш",
+		"vsdm-customDicomVoiLutDialog-title": "Сатҳи Тиреза",
+		"vsdm-dialog-applyButton": "Муроҷиат кунед",
+		"vsdm-dialog-cancelButton": "Бекор кардан",
+		"vsdm-dialog-resetButton": "Бозсозӣ"
+	}
+}

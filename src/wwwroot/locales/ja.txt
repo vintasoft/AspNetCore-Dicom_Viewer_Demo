@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "ファイル"
+		},
+		"viewLabel": {
+			"text": "表示"
+		},
+		"toolsLabel": {
+			"text": "ツール"
+		},
+		"measurementsLabel": {
+			"text": "測定"
+		},
+		"showMobileMenuButton": {
+			"title": "詳細"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "DICOM ファイルのアップロードと追加"
+		},
+		"clearSessionCacheButton": {
+			"title": "セッションキャッシュをクリアする"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM ファイルのメタデータを表示"
+		},
+		"fullScreenButton": {
+			"title": "全画面表示"
+		},
+		"zoomOutButton": {
+			"title": "ズームアウト"
+		},
+		"zoomInButton": {
+			"title": "ズームイン"
+		},
+		"invertImageButton": {
+			"title": "画像を反転"
+		},
+		"resetViewButton": {
+			"title": "ビューをリセット"
+		},
+		"fitToWidthButton": {
+			"title": "画像の幅に合わせる"
+		},
+		"fitToHeightButton": {
+			"title": "画像の高さに合わせる"
+		},
+		"viewImageInBestFitButton": {
+			"title": "画像を最適にフィットさせて表示"
+		},
+		"showTextOverlaysButton": {
+			"title": "テキスト オーバーレイの表示/非表示"
+		},
+		"showMeasurementsButton": {
+			"title": "計測値の表示/非表示"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "補間による画像の描画"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "パン"
+		},
+		"browseToolButton": {
+			"title": "フレームの参照"
+		},
+		"zoomToolButton": {
+			"title": "スケール"
+		},
+		"windowLevelToolButton": {
+			"title": "ウィンドウ レベル"
+		},
+		"measurementsToolButton": {
+			"title": "測定"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM ウィンドウ レベルの設定"
+		},
+		"buildLineButton": {
+			"title": "ラインの作成"
+		},
+		"buildLinesButton": {
+			"title": "ラインの作成"
+		},
+		"buildAngleButton": {
+			"title": "角度の作成"
+		},
+		"buildEllipseButton": {
+			"title": "楕円の作成"
+		},
+		"buildCrossButton": {
+			"title": "十字の作成"
+		},
+		"buildRectangleButton": {
+			"title": "長方形の作成"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "フォーカスされた計測値の削除"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "すべての計測値の削除"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "ミリメートル"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "センチメートル"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "インチ"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "ピクセル"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "サイド パネルの非表示"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM シリーズ マネージャー"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "表示"
+				},
+				"toolsLabel": {
+					"text": "ツール"
+				},
+				"measurementsLabel": {
+					"text": "測定"
+				},
+				"showMobileMenuButton": {
+					"title": "詳細"
+				},
+				"invertImageButton": {
+					"title": "画像を反転"
+				},
+				"resetViewButton": {
+					"title": "ビューをリセット"
+				},
+				"fitToWidthButton": {
+					"title": "画像の幅に合わせる"
+				},
+				"fitToHeightButton": {
+					"title": "画像の高さに合わせる"
+				},
+				"viewImageInBestFitButton": {
+					"title": "画像を最適にフィットさせて表示"
+				},
+				"showTextOverlaysButton": {
+					"title": "テキスト オーバーレイの表示/非表示"
+				},
+				"showMeasurementsButton": {
+					"title": "計測値の表示/非表示"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "平均"
+					}
+				},
+				"fullScreenButton": {
+					"title": "全画面表示"
+				},
+				"browseToolButton": {
+					"title": "フレームの参照"
+				},
+				"panToolButton": {
+					"title": "パン"
+				},
+				"zoomToolButton": {
+					"title": "スケール"
+				},
+				"rotate3dToolButton": {
+					"title": "3D 回転"
+				},
+				"rollToolButton": {
+					"title": "ロール"
+				},
+				"windowLevelToolButton": {
+					"title": "ウィンドウ レベル"
+				},
+				"measurementsToolButton": {
+					"title": "測定"
+				},
+				"buildLineButton": {
+					"title": "ラインの作成"
+				},
+				"buildLinesButton": {
+					"title": "ラインの作成"
+				},
+				"buildAngleButton": {
+					"title": "角度の作成"
+				},
+				"buildEllipseButton": {
+					"title": "楕円の作成"
+				},
+				"buildCrossButton": {
+					"title": "十字の作成"
+				},
+				"buildRectangleButton": {
+					"title": "長方形の作成"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "フォーカスされた計測値の削除"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "すべての計測値の削除"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "ミリメートル"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "センチメートル"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "インチ"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "ピクセル"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "デフォルトの VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "カスタム VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "矢状面..."
+		},
+		"CoronalButton": {
+			"value": "冠状面..."
+		},
+		"AxialButton": {
+			"value": "軸方向..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "湾曲 MPR"
+			},
+			"OnSagittalButton": {
+				"value": "矢状面..."
+			},
+			"OnCoronalButton": {
+				"value": "冠状面..."
+			},
+			"OnAxialButton": {
+				"value": "軸方向..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "幅:"
+			},
+			"centerLabel": {
+				"text": "センター:"
+			},
+			"applyButton": {
+				"value": "適用する"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "キャンセル"
+			},
+			"resetButton": {
+				"value": "リセット"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "エラー"
+		},
+		"closeButton": {
+			"text": "閉じる"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT 腹部",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT 血管",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT 骨",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT 脳",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT 胸部",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT 肺",
+		"vsdm-selectDicomVoiLutTypePanel-width": "幅",
+		"vsdm-selectDicomVoiLutTypePanel-center": "中央揃え",
+		"vsdm-metadataDialog-title": "DICOM ファイル メタデータ",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "タグ ID",
+		"vsdm-metadataTable-length": "長さ",
+		"vsdm-metadataTable-description": "説明",
+		"vsdm-metadataTable-value": "値",
+		"vsdm-customDicomVoiLutDialog-title": "ウィンドウ レベル",
+		"vsdm-dialog-applyButton": "適用する",
+		"vsdm-dialog-cancelButton": "キャンセル",
+		"vsdm-dialog-resetButton": "リセット"
+	}
+}

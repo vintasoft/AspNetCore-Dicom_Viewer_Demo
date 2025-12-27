@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Ֆայլ"
+		},
+		"viewLabel": {
+			"text": "Դիտել"
+		},
+		"toolsLabel": {
+			"text": "Գործիքներ"
+		},
+		"measurementsLabel": {
+			"text": "Չափումներ"
+		},
+		"showMobileMenuButton": {
+			"title": "Ավելին"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Վերբեռնեք և ավելացրեք DICOM ֆայլեր"
+		},
+		"clearSessionCacheButton": {
+			"title": "Մաքրել նստաշրջանի քեշը"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Ցույց տալ DICOM ֆայլի մետատվյալները"
+		},
+		"fullScreenButton": {
+			"title": "Ամբողջ էկրանով"
+		},
+		"zoomOutButton": {
+			"title": "Մանրացնել"
+		},
+		"zoomInButton": {
+			"title": "Խոշորացնել. մոտեցնել"
+		},
+		"invertImageButton": {
+			"title": "Շրջել պատկերը"
+		},
+		"resetViewButton": {
+			"title": "Վերականգնել տեսքը"
+		},
+		"fitToWidthButton": {
+			"title": "Պատկերը հարմարեցրեք լայնությանը"
+		},
+		"fitToHeightButton": {
+			"title": "Պատկերը հարմարեցրեք բարձրությանը"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Դիտեք պատկերը լավագույնս համապատասխան"
+		},
+		"showTextOverlaysButton": {
+			"title": "Ցույց տալ/թաքցնել տեքստի ծածկույթները"
+		},
+		"showMeasurementsButton": {
+			"title": "Ցույց տալ/թաքցնել չափումները"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Նկարել պատկերը ինտերպոլացիայով"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Պան"
+		},
+		"browseToolButton": {
+			"title": "Թերթիր շրջանակները"
+		},
+		"zoomToolButton": {
+			"title": "Մեծացնել"
+		},
+		"windowLevelToolButton": {
+			"title": "Պատուհանների մակարդակը"
+		},
+		"measurementsToolButton": {
+			"title": "Չափումներ"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM պատուհանի մակարդակի կարգավորումներ"
+		},
+		"buildLineButton": {
+			"title": "Կառուցեք գիծ"
+		},
+		"buildLinesButton": {
+			"title": "Կառուցեք գծեր"
+		},
+		"buildAngleButton": {
+			"title": "Կառուցեք անկյուն"
+		},
+		"buildEllipseButton": {
+			"title": "Կառուցեք էլիպս"
+		},
+		"buildCrossButton": {
+			"title": "Կառուցեք խաչ"
+		},
+		"buildRectangleButton": {
+			"title": "Կառուցեք ուղղանկյուն"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Հեռացրեք կենտրոնացված չափումը"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Հեռացրեք բոլոր չափումները"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Միլիմետրեր"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "սանտիմետրեր"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "դյույմներով"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Փիքսելներ"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Թաքցնել կողային վահանակը"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM շարքի մենեջեր"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Դիտել"
+				},
+				"toolsLabel": {
+					"text": "Գործիքներ"
+				},
+				"measurementsLabel": {
+					"text": "Չափումներ"
+				},
+				"showMobileMenuButton": {
+					"title": "Ավելին"
+				},
+				"invertImageButton": {
+					"title": "Շրջել պատկերը"
+				},
+				"resetViewButton": {
+					"title": "Վերականգնել տեսքը"
+				},
+				"fitToWidthButton": {
+					"title": "Պատկերը հարմարեցրեք լայնությանը"
+				},
+				"fitToHeightButton": {
+					"title": "Պատկերը հարմարեցրեք բարձրությանը"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Դիտեք պատկերը լավագույնս համապատասխան"
+				},
+				"showTextOverlaysButton": {
+					"title": "Ցույց տալ/թաքցնել տեքստի ծածկույթները"
+				},
+				"showMeasurementsButton": {
+					"title": "Ցույց տալ/թաքցնել չափումները"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Միջին"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Ամբողջ էկրանով"
+				},
+				"browseToolButton": {
+					"title": "Թերթիր շրջանակները"
+				},
+				"panToolButton": {
+					"title": "Պան"
+				},
+				"zoomToolButton": {
+					"title": "Մեծացնել"
+				},
+				"rotate3dToolButton": {
+					"title": "Պտտել 3D"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Պատուհանների մակարդակը"
+				},
+				"measurementsToolButton": {
+					"title": "Չափումներ"
+				},
+				"buildLineButton": {
+					"title": "Կառուցեք գիծ"
+				},
+				"buildLinesButton": {
+					"title": "Կառուցեք գծեր"
+				},
+				"buildAngleButton": {
+					"title": "Կառուցեք անկյուն"
+				},
+				"buildEllipseButton": {
+					"title": "Կառուցեք էլիպս"
+				},
+				"buildCrossButton": {
+					"title": "Կառուցեք խաչ"
+				},
+				"buildRectangleButton": {
+					"title": "Կառուցեք ուղղանկյուն"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Հեռացրեք կենտրոնացված չափումը"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Հեռացրեք բոլոր չափումները"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Միլիմետրեր"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "սանտիմետրեր"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "դյույմներով"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Փիքսելներ"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Կանխադրված VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Պատվերով VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Աղեղնավոր..."
+		},
+		"CoronalButton": {
+			"value": "Կորոնալ..."
+		},
+		"AxialButton": {
+			"value": "Առանցքային..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Curved MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Սագիտալի վրա..."
+			},
+			"OnCoronalButton": {
+				"value": "Պսակի վրա..."
+			},
+			"OnAxialButton": {
+				"value": "Առանցքային..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "լավ"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Լայնությունը:"
+			},
+			"centerLabel": {
+				"text": "Կենտրոն."
+			},
+			"applyButton": {
+				"value": "Դիմել"
+			},
+			"okButton": {
+				"value": "լավ"
+			},
+			"cancelButton": {
+				"value": "Չեղարկել"
+			},
+			"resetButton": {
+				"value": "Վերականգնել"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Սխալ"
+		},
+		"closeButton": {
+			"text": "փակել"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT որովայնի",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT Անոթային",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT ոսկոր",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "Ուղեղի CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "Կրծքավանդակի CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "Թոքերի CT",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Լայնություն",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Կենտրոն",
+		"vsdm-metadataDialog-title": "DICOM ֆայլի մետատվյալներ",
+		"vsdm-dialog-okButton": "լավ",
+		"vsdm-metadataTable-tagId": "Tag ID",
+		"vsdm-metadataTable-length": "Երկարություն",
+		"vsdm-metadataTable-description": "Նկարագրություն",
+		"vsdm-metadataTable-value": "Արժեք",
+		"vsdm-customDicomVoiLutDialog-title": "Պատուհանի մակարդակ",
+		"vsdm-dialog-applyButton": "Դիմել",
+		"vsdm-dialog-cancelButton": "Չեղարկել",
+		"vsdm-dialog-resetButton": "Վերականգնել"
+	}
+}

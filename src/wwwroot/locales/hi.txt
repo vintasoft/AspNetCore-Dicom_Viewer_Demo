@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "फ़ाइल"
+		},
+		"viewLabel": {
+			"text": "देखें"
+		},
+		"toolsLabel": {
+			"text": "उपकरण"
+		},
+		"measurementsLabel": {
+			"text": "माप"
+		},
+		"showMobileMenuButton": {
+			"title": "अधिक"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "DICOM फ़ाइलें अपलोड करें और जोड़ें"
+		},
+		"clearSessionCacheButton": {
+			"title": "सत्र कैश साफ़ करें"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM फ़ाइल मेटाडेटा दिखाएँ"
+		},
+		"fullScreenButton": {
+			"title": "पूर्ण स्क्रीन"
+		},
+		"zoomOutButton": {
+			"title": "ज़ूम आउट"
+		},
+		"zoomInButton": {
+			"title": "ज़ूम इन करें"
+		},
+		"invertImageButton": {
+			"title": "छवि उलटें"
+		},
+		"resetViewButton": {
+			"title": "दृश्य रीसेट करें"
+		},
+		"fitToWidthButton": {
+			"title": "छवि को चौड़ाई में फ़िट करें"
+		},
+		"fitToHeightButton": {
+			"title": "छवि को ऊँचाई में फ़िट करें"
+		},
+		"viewImageInBestFitButton": {
+			"title": "छवि को सबसे बेहतर फ़िट में देखें"
+		},
+		"showTextOverlaysButton": {
+			"title": "टेक्स्ट ओवरले दिखाएँ/छिपाएँ"
+		},
+		"showMeasurementsButton": {
+			"title": "माप दिखाएँ/छिपाएँ"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "इंटरपोलेशन के साथ छवि बनाएँ"
+		},
+		"mprButton": {
+			"title": "एमपीआर"
+		},
+		"panToolButton": {
+			"title": "पैन"
+		},
+		"browseToolButton": {
+			"title": "फ़्रेम ब्राउज़ करें"
+		},
+		"zoomToolButton": {
+			"title": "पैमाना"
+		},
+		"windowLevelToolButton": {
+			"title": "विंडो लेवल"
+		},
+		"measurementsToolButton": {
+			"title": "माप"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM विंडो लेवल सेटिंग"
+		},
+		"buildLineButton": {
+			"title": "बिल्ड लाइन"
+		},
+		"buildLinesButton": {
+			"title": "बिल्ड लाइन्स"
+		},
+		"buildAngleButton": {
+			"title": "बिल्ड एंगल"
+		},
+		"buildEllipseButton": {
+			"title": "बिल्ड एलिप्स"
+		},
+		"buildCrossButton": {
+			"title": "बिल्ड क्रॉस"
+		},
+		"buildRectangleButton": {
+			"title": "बिल्ड आयत"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "फ़ोकस किए गए माप को हटाएँ"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "सभी माप को हटाएँ"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "मिलीमीटर"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "सेंटीमीटर"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "इंच"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "पिक्सल"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "साइड पैनल छिपाएँ"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM सीरीज़ मैनेजर"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "डीआईकॉम एमपीआर"
+			},
+			"closeButton": {
+				"value": "एक्स"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "देखें"
+				},
+				"toolsLabel": {
+					"text": "उपकरण"
+				},
+				"measurementsLabel": {
+					"text": "माप"
+				},
+				"showMobileMenuButton": {
+					"title": "अधिक"
+				},
+				"invertImageButton": {
+					"title": "छवि उलटें"
+				},
+				"resetViewButton": {
+					"title": "दृश्य रीसेट करें"
+				},
+				"fitToWidthButton": {
+					"title": "छवि को चौड़ाई में फ़िट करें"
+				},
+				"fitToHeightButton": {
+					"title": "छवि को ऊँचाई में फ़िट करें"
+				},
+				"viewImageInBestFitButton": {
+					"title": "छवि को सबसे बेहतर फ़िट में देखें"
+				},
+				"showTextOverlaysButton": {
+					"title": "टेक्स्ट ओवरले दिखाएँ/छिपाएँ"
+				},
+				"showMeasurementsButton": {
+					"title": "माप दिखाएँ/छिपाएँ"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "एमपीआर"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "एमआईपी"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "मिनआईपी"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "औसत"
+					}
+				},
+				"fullScreenButton": {
+					"title": "पूर्ण स्क्रीन"
+				},
+				"browseToolButton": {
+					"title": "फ़्रेम ब्राउज़ करें"
+				},
+				"panToolButton": {
+					"title": "पैन"
+				},
+				"zoomToolButton": {
+					"title": "पैमाना"
+				},
+				"rotate3dToolButton": {
+					"title": "3डी घुमाएँ"
+				},
+				"rollToolButton": {
+					"title": "रोल"
+				},
+				"windowLevelToolButton": {
+					"title": "विंडो लेवल"
+				},
+				"measurementsToolButton": {
+					"title": "माप"
+				},
+				"buildLineButton": {
+					"title": "बिल्ड लाइन"
+				},
+				"buildLinesButton": {
+					"title": "बिल्ड लाइन्स"
+				},
+				"buildAngleButton": {
+					"title": "बिल्ड एंगल"
+				},
+				"buildEllipseButton": {
+					"title": "बिल्ड एलिप्स"
+				},
+				"buildCrossButton": {
+					"title": "बिल्ड क्रॉस"
+				},
+				"buildRectangleButton": {
+					"title": "बिल्ड आयत"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "फ़ोकस किए गए माप को हटाएँ"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "सभी माप को हटाएँ"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "मिलीमीटर"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "सेंटीमीटर"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "इंच"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "पिक्सल"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "डिफ़ॉल्ट VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "कस्टम VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3डी एमपीआर..."
+		},
+		"SagittalButton": {
+			"value": "धनु..."
+		},
+		"CoronalButton": {
+			"value": "कोरोनल..."
+		},
+		"AxialButton": {
+			"value": "अक्षीय..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "वक्रित एमपीआर"
+			},
+			"OnSagittalButton": {
+				"value": "धनु पर..."
+			},
+			"OnCoronalButton": {
+				"value": "कोरोनल पर..."
+			},
+			"OnAxialButton": {
+				"value": "अक्षीय पर..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "ठीक है"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "चौड़ाई:"
+			},
+			"centerLabel": {
+				"text": "केंद्र:"
+			},
+			"applyButton": {
+				"value": "आवेदन करना"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"cancelButton": {
+				"value": "रद्द करें"
+			},
+			"resetButton": {
+				"value": "रीसेट करें"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "त्रुटि"
+		},
+		"closeButton": {
+			"text": "बंद करें"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT पेट",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT संवहनी",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT हड्डी",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT मस्तिष्क",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT छाती",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT फेफड़े",
+		"vsdm-selectDicomVoiLutTypePanel-width": "चौड़ाई",
+		"vsdm-selectDicomVoiLutTypePanel-center": "केंद्र संरेखित करें",
+		"vsdm-metadataDialog-title": "DICOM फ़ाइल मेटाडेटा",
+		"vsdm-dialog-okButton": "ठीक है",
+		"vsdm-metadataTable-tagId": "टैग आईडी",
+		"vsdm-metadataTable-length": "लंबाई",
+		"vsdm-metadataTable-description": "विवरण",
+		"vsdm-metadataTable-value": "मूल्य",
+		"vsdm-customDicomVoiLutDialog-title": "विंडो लेवल",
+		"vsdm-dialog-applyButton": "आवेदन करना",
+		"vsdm-dialog-cancelButton": "रद्द करें",
+		"vsdm-dialog-resetButton": "रीसेट करें"
+	}
+}

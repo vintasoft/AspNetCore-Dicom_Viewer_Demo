@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Fayl"
+		},
+		"viewLabel": {
+			"text": "Ko'rinish"
+		},
+		"toolsLabel": {
+			"text": "Asboblar"
+		},
+		"measurementsLabel": {
+			"text": "O'lchovlar"
+		},
+		"showMobileMenuButton": {
+			"title": "Ko'proq"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "DICOM fayllarini yuklang va qo'shing"
+		},
+		"clearSessionCacheButton": {
+			"title": "Seans keshini tozalash"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM fayl metamaʼlumotlarini koʻrsatish"
+		},
+		"fullScreenButton": {
+			"title": "To'liq ekran"
+		},
+		"zoomOutButton": {
+			"title": "Kichraytirish"
+		},
+		"zoomInButton": {
+			"title": "Kattalashtirish"
+		},
+		"invertImageButton": {
+			"title": "Rasmni teskari aylantirish"
+		},
+		"resetViewButton": {
+			"title": "Ko'rinishni tiklash"
+		},
+		"fitToWidthButton": {
+			"title": "Tasvirni kenglikka moslash"
+		},
+		"fitToHeightButton": {
+			"title": "Rasmni balandlikka moslash"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Tasvirni eng mos holda ko'ring"
+		},
+		"showTextOverlaysButton": {
+			"title": "Matn qoplamalarini ko'rsatish/yashirish"
+		},
+		"showMeasurementsButton": {
+			"title": "O'lchovlarni ko'rsatish/yashirish"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Interpolyatsiya bilan rasm chizish"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Ramkalarni ko'rib chiqish"
+		},
+		"zoomToolButton": {
+			"title": "Kattalashtirish"
+		},
+		"windowLevelToolButton": {
+			"title": "Deraza darajasi"
+		},
+		"measurementsToolButton": {
+			"title": "O'lchovlar"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM oyna darajasi sozlamalari"
+		},
+		"buildLineButton": {
+			"title": "Qurilish liniyasi"
+		},
+		"buildLinesButton": {
+			"title": "Chiziqlarni qurish"
+		},
+		"buildAngleButton": {
+			"title": "Qurilish burchagi"
+		},
+		"buildEllipseButton": {
+			"title": "Ellips qurish"
+		},
+		"buildCrossButton": {
+			"title": "Xoch qurish"
+		},
+		"buildRectangleButton": {
+			"title": "To'rtburchak qurish"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Fokuslangan o'lchovni olib tashlang"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Barcha o'lchovlarni olib tashlang"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Millimetr"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Santimetr"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "dyuym"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Piksellar"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Yon panelni yashirish"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM seriyali menejeri"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Ko'rinish"
+				},
+				"toolsLabel": {
+					"text": "Asboblar"
+				},
+				"measurementsLabel": {
+					"text": "O'lchovlar"
+				},
+				"showMobileMenuButton": {
+					"title": "Ko'proq"
+				},
+				"invertImageButton": {
+					"title": "Rasmni teskari aylantirish"
+				},
+				"resetViewButton": {
+					"title": "Ko'rinishni tiklash"
+				},
+				"fitToWidthButton": {
+					"title": "Tasvirni kenglikka moslash"
+				},
+				"fitToHeightButton": {
+					"title": "Rasmni balandlikka moslash"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Tasvirni eng mos holda ko'ring"
+				},
+				"showTextOverlaysButton": {
+					"title": "Matn qoplamalarini ko'rsatish/yashirish"
+				},
+				"showMeasurementsButton": {
+					"title": "O'lchovlarni ko'rsatish/yashirish"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MiniIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "O'rtacha"
+					}
+				},
+				"fullScreenButton": {
+					"title": "To'liq ekran"
+				},
+				"browseToolButton": {
+					"title": "Ramkalarni ko'rib chiqish"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Kattalashtirish"
+				},
+				"rotate3dToolButton": {
+					"title": "3D aylantiring"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Deraza darajasi"
+				},
+				"measurementsToolButton": {
+					"title": "O'lchovlar"
+				},
+				"buildLineButton": {
+					"title": "Qurilish liniyasi"
+				},
+				"buildLinesButton": {
+					"title": "Chiziqlarni qurish"
+				},
+				"buildAngleButton": {
+					"title": "Qurilish burchagi"
+				},
+				"buildEllipseButton": {
+					"title": "Ellips qurish"
+				},
+				"buildCrossButton": {
+					"title": "Xoch qurish"
+				},
+				"buildRectangleButton": {
+					"title": "To'rtburchak qurish"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Fokuslangan o'lchovni olib tashlang"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Barcha o'lchovlarni olib tashlang"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Millimetr"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Santimetr"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "dyuym"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Piksellar"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Standart VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Maxsus VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagittal..."
+		},
+		"CoronalButton": {
+			"value": "Koronal..."
+		},
+		"AxialButton": {
+			"value": "Eksenel..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Egri MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Sagittalda..."
+			},
+			"OnCoronalButton": {
+				"value": "Koronalda..."
+			},
+			"OnAxialButton": {
+				"value": "Eksenel bo'yicha..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "KELISHDIKMI"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Kengligi:"
+			},
+			"centerLabel": {
+				"text": "Markaz:"
+			},
+			"applyButton": {
+				"value": "Murojaat qiling"
+			},
+			"okButton": {
+				"value": "KELISHDIKMI"
+			},
+			"cancelButton": {
+				"value": "Bekor qilish"
+			},
+			"resetButton": {
+				"value": "Qayta o'rnatish"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Xato"
+		},
+		"closeButton": {
+			"text": "Yopish"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "KT qorin bo'shlig'i",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "Qon tomir KT",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "KT suyak",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT miya",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "Ko'krak qafasining KT",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "O'pka KT",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Kengligi",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Markaz",
+		"vsdm-metadataDialog-title": "DICOM fayl metadata",
+		"vsdm-dialog-okButton": "KELISHDIKMI",
+		"vsdm-metadataTable-tagId": "Teg ID",
+		"vsdm-metadataTable-length": "Uzunlik",
+		"vsdm-metadataTable-description": "Tavsif",
+		"vsdm-metadataTable-value": "Qiymat",
+		"vsdm-customDicomVoiLutDialog-title": "Oyna darajasi",
+		"vsdm-dialog-applyButton": "Murojaat qiling",
+		"vsdm-dialog-cancelButton": "Bekor qilish",
+		"vsdm-dialog-resetButton": "Qayta o'rnatish"
+	}
+}

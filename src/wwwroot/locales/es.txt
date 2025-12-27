@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Archivo"
+		},
+		"viewLabel": {
+			"text": "Ver"
+		},
+		"toolsLabel": {
+			"text": "Herramientas"
+		},
+		"measurementsLabel": {
+			"text": "Mediciones"
+		},
+		"showMobileMenuButton": {
+			"title": "Más"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Cargar y agregar archivos DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Borrar caché de sesión"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Mostrar metadatos de archivo DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Pantalla completa"
+		},
+		"zoomOutButton": {
+			"title": "Alejar"
+		},
+		"zoomInButton": {
+			"title": "Acercar"
+		},
+		"invertImageButton": {
+			"title": "Invertir imagen"
+		},
+		"resetViewButton": {
+			"title": "Restablecer vista"
+		},
+		"fitToWidthButton": {
+			"title": "Ajustar imagen al ancho"
+		},
+		"fitToHeightButton": {
+			"title": "Ajustar imagen a la altura"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Ver imagen con el mejor ajuste"
+		},
+		"showTextOverlaysButton": {
+			"title": "Mostrar/ocultar superposiciones de texto"
+		},
+		"showMeasurementsButton": {
+			"title": "Mostrar/ocultar mediciones"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Dibujar imagen con interpolación"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Examinar marcos"
+		},
+		"zoomToolButton": {
+			"title": "Escala"
+		},
+		"windowLevelToolButton": {
+			"title": "Nivel de ventana"
+		},
+		"measurementsToolButton": {
+			"title": "Mediciones"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Configuración del nivel de ventana DICOM"
+		},
+		"buildLineButton": {
+			"title": "Crear línea"
+		},
+		"buildLinesButton": {
+			"title": "Crear líneas"
+		},
+		"buildAngleButton": {
+			"title": "Crear ángulo"
+		},
+		"buildEllipseButton": {
+			"title": "Crear elipse"
+		},
+		"buildCrossButton": {
+			"title": "Crear cruz"
+		},
+		"buildRectangleButton": {
+			"title": "Crear rectángulo"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Eliminar medición enfocada"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Eliminar todas las mediciones"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "milímetros"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Centímetros"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Pulgadas"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Píxeles"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Ocultar panel lateral"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Administrador de series DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "MPR DICOM"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Ver"
+				},
+				"toolsLabel": {
+					"text": "Herramientas"
+				},
+				"measurementsLabel": {
+					"text": "Mediciones"
+				},
+				"showMobileMenuButton": {
+					"title": "Más"
+				},
+				"invertImageButton": {
+					"title": "Invertir imagen"
+				},
+				"resetViewButton": {
+					"title": "Restablecer vista"
+				},
+				"fitToWidthButton": {
+					"title": "Ajustar imagen al ancho"
+				},
+				"fitToHeightButton": {
+					"title": "Ajustar imagen a la altura"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Ver imagen con el mejor ajuste"
+				},
+				"showTextOverlaysButton": {
+					"title": "Mostrar/ocultar superposiciones de texto"
+				},
+				"showMeasurementsButton": {
+					"title": "Mostrar/ocultar mediciones"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Promedio"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Pantalla completa"
+				},
+				"browseToolButton": {
+					"title": "Examinar marcos"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Escala"
+				},
+				"rotate3dToolButton": {
+					"title": "Rotar 3D"
+				},
+				"rollToolButton": {
+					"title": "Rodar"
+				},
+				"windowLevelToolButton": {
+					"title": "Nivel de ventana"
+				},
+				"measurementsToolButton": {
+					"title": "Mediciones"
+				},
+				"buildLineButton": {
+					"title": "Crear línea"
+				},
+				"buildLinesButton": {
+					"title": "Crear líneas"
+				},
+				"buildAngleButton": {
+					"title": "Crear ángulo"
+				},
+				"buildEllipseButton": {
+					"title": "Crear elipse"
+				},
+				"buildCrossButton": {
+					"title": "Crear cruz"
+				},
+				"buildRectangleButton": {
+					"title": "Crear rectángulo"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Eliminar medición enfocada"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Eliminar todas las mediciones"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "milímetros"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Centímetros"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Pulgadas"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Píxeles"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "LUT de VOI predeterminado"
+		},
+		"customVoiLutButton": {
+			"value": "LUT VOI personalizado..."
+		},
+		"Mpr3dButton": {
+			"value": "MPR 3D..."
+		},
+		"SagittalButton": {
+			"value": "Sagital..."
+		},
+		"CoronalButton": {
+			"value": "Coronal..."
+		},
+		"AxialButton": {
+			"value": "Axial..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "MPR curvado"
+			},
+			"OnSagittalButton": {
+				"value": "En sagital..."
+			},
+			"OnCoronalButton": {
+				"value": "En coronal..."
+			},
+			"OnAxialButton": {
+				"value": "En axial..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Ancho:"
+			},
+			"centerLabel": {
+				"text": "Centro:"
+			},
+			"applyButton": {
+				"value": "Aplicar"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Cancelar"
+			},
+			"resetButton": {
+				"value": "Reiniciar"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Error"
+		},
+		"closeButton": {
+			"text": "Cerrar"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "TC Abdomen",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "TC vascular",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "Hueso CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "TC cerebral",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "TC de tórax",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "TC de pulmones",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Ancho",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Alinear al centro",
+		"vsdm-metadataDialog-title": "Metadatos del archivo DICOM",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "ID de etiqueta",
+		"vsdm-metadataTable-length": "Longitud",
+		"vsdm-metadataTable-description": "Descripción",
+		"vsdm-metadataTable-value": "El valor",
+		"vsdm-customDicomVoiLutDialog-title": "Nivel de ventana",
+		"vsdm-dialog-applyButton": "Aplicar",
+		"vsdm-dialog-cancelButton": "Cancelar",
+		"vsdm-dialog-resetButton": "Reiniciar"
+	}
+}

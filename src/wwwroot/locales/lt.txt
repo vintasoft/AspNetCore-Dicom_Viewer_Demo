@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Failas"
+		},
+		"viewLabel": {
+			"text": "Žiūrėti"
+		},
+		"toolsLabel": {
+			"text": "Įrankiai"
+		},
+		"measurementsLabel": {
+			"text": "Išmatavimai"
+		},
+		"showMobileMenuButton": {
+			"title": "Daugiau"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Įkelkite ir pridėkite DICOM failus"
+		},
+		"clearSessionCacheButton": {
+			"title": "Išvalyti seanso talpyklą"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Rodyti DICOM failo metaduomenis"
+		},
+		"fullScreenButton": {
+			"title": "Per visą ekraną"
+		},
+		"zoomOutButton": {
+			"title": "Nutolinti"
+		},
+		"zoomInButton": {
+			"title": "Priartinti"
+		},
+		"invertImageButton": {
+			"title": "Apverskite vaizdą"
+		},
+		"resetViewButton": {
+			"title": "Iš naujo nustatyti rodinį"
+		},
+		"fitToWidthButton": {
+			"title": "Pritaikyti vaizdą pagal plotį"
+		},
+		"fitToHeightButton": {
+			"title": "Pritaikykite vaizdą prie aukščio"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Peržiūrėkite geriausiai tinkantį vaizdą"
+		},
+		"showTextOverlaysButton": {
+			"title": "Rodyti / slėpti teksto perdangas"
+		},
+		"showMeasurementsButton": {
+			"title": "Rodyti/slėpti matavimus"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Nubrėžkite vaizdą su interpoliacija"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Naršyti rėmelius"
+		},
+		"zoomToolButton": {
+			"title": "Padidinti"
+		},
+		"windowLevelToolButton": {
+			"title": "Lango lygis"
+		},
+		"measurementsToolButton": {
+			"title": "Išmatavimai"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM lango lygio nustatymai"
+		},
+		"buildLineButton": {
+			"title": "Statyti liniją"
+		},
+		"buildLinesButton": {
+			"title": "Statyti linijas"
+		},
+		"buildAngleButton": {
+			"title": "Statymo kampas"
+		},
+		"buildEllipseButton": {
+			"title": "Sukurkite elipsę"
+		},
+		"buildCrossButton": {
+			"title": "Statyti kryžių"
+		},
+		"buildRectangleButton": {
+			"title": "Sukurkite stačiakampį"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Pašalinkite fokusuotą matavimą"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Pašalinkite visus matavimus"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Milimetrai"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "centimetrai"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Colių"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Pikseliai"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Slėpti šoninį skydelį"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM serijos vadybininkas"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Žiūrėti"
+				},
+				"toolsLabel": {
+					"text": "Įrankiai"
+				},
+				"measurementsLabel": {
+					"text": "Išmatavimai"
+				},
+				"showMobileMenuButton": {
+					"title": "Daugiau"
+				},
+				"invertImageButton": {
+					"title": "Apverskite vaizdą"
+				},
+				"resetViewButton": {
+					"title": "Iš naujo nustatyti rodinį"
+				},
+				"fitToWidthButton": {
+					"title": "Pritaikyti vaizdą pagal plotį"
+				},
+				"fitToHeightButton": {
+					"title": "Pritaikykite vaizdą prie aukščio"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Peržiūrėkite geriausiai tinkantį vaizdą"
+				},
+				"showTextOverlaysButton": {
+					"title": "Rodyti / slėpti teksto perdangas"
+				},
+				"showMeasurementsButton": {
+					"title": "Rodyti/slėpti matavimus"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "Mini IP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Vidutinis"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Per visą ekraną"
+				},
+				"browseToolButton": {
+					"title": "Naršyti rėmelius"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Padidinti"
+				},
+				"rotate3dToolButton": {
+					"title": "Pasukti 3D"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Lango lygis"
+				},
+				"measurementsToolButton": {
+					"title": "Išmatavimai"
+				},
+				"buildLineButton": {
+					"title": "Statyti liniją"
+				},
+				"buildLinesButton": {
+					"title": "Statyti linijas"
+				},
+				"buildAngleButton": {
+					"title": "Statymo kampas"
+				},
+				"buildEllipseButton": {
+					"title": "Sukurkite elipsę"
+				},
+				"buildCrossButton": {
+					"title": "Statyti kryžių"
+				},
+				"buildRectangleButton": {
+					"title": "Sukurkite stačiakampį"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Pašalinkite fokusuotą matavimą"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Pašalinkite visus matavimus"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Milimetrai"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "centimetrai"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Colių"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Pikseliai"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Numatytoji VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Tinkintas VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagitalinis..."
+		},
+		"CoronalButton": {
+			"value": "Koroninis..."
+		},
+		"AxialButton": {
+			"value": "Ašinis..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Išlenktas MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Ant sagitalinio..."
+			},
+			"OnCoronalButton": {
+				"value": "Ant vainiko..."
+			},
+			"OnAxialButton": {
+				"value": "Ant ašies..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "Gerai"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Plotis:"
+			},
+			"centerLabel": {
+				"text": "Centras:"
+			},
+			"applyButton": {
+				"value": "Taikyti"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"cancelButton": {
+				"value": "Atšaukti"
+			},
+			"resetButton": {
+				"value": "Nustatyti iš naujo"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Klaida"
+		},
+		"closeButton": {
+			"text": "Uždaryti"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT pilvas",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "Kraujagyslių KT",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT kaulas",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT Smegenys",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "Krūtinės kompiuterinė tomografija",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT plaučiai",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Plotis",
+		"vsdm-selectDicomVoiLutTypePanel-center": "centras",
+		"vsdm-metadataDialog-title": "DICOM failo metaduomenys",
+		"vsdm-dialog-okButton": "Gerai",
+		"vsdm-metadataTable-tagId": "Žymės ID",
+		"vsdm-metadataTable-length": "Ilgis",
+		"vsdm-metadataTable-description": "apibūdinimas",
+		"vsdm-metadataTable-value": "Vertė",
+		"vsdm-customDicomVoiLutDialog-title": "Lango lygis",
+		"vsdm-dialog-applyButton": "Taikyti",
+		"vsdm-dialog-cancelButton": "Atšaukti",
+		"vsdm-dialog-resetButton": "Nustatyti iš naujo"
+	}
+}

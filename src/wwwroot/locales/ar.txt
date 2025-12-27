@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "ملف"
+		},
+		"viewLabel": {
+			"text": "عرض"
+		},
+		"toolsLabel": {
+			"text": "أدوات"
+		},
+		"measurementsLabel": {
+			"text": "قياسات"
+		},
+		"showMobileMenuButton": {
+			"title": "المزيد"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "تحميل وإضافة ملفات DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "مسح ذاكرة التخزين المؤقت للجلسة"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "إظهار بيانات تعريف ملف DICOM"
+		},
+		"fullScreenButton": {
+			"title": "تكبير الشاشة"
+		},
+		"zoomOutButton": {
+			"title": "تصغير"
+		},
+		"zoomInButton": {
+			"title": "تكبير"
+		},
+		"invertImageButton": {
+			"title": "عكس الصورة"
+		},
+		"resetViewButton": {
+			"title": "إعادة تعيين العرض"
+		},
+		"fitToWidthButton": {
+			"title": "ملاءمة الصورة للعرض"
+		},
+		"fitToHeightButton": {
+			"title": "ملاءمة الصورة للارتفاع"
+		},
+		"viewImageInBestFitButton": {
+			"title": "عرض الصورة بأفضل ملاءمة"
+		},
+		"showTextOverlaysButton": {
+			"title": "إظهار/إخفاء تراكبات النص"
+		},
+		"showMeasurementsButton": {
+			"title": "إظهار/إخفاء القياسات"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "رسم صورة باستخدام الاستيفاء"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "عموم"
+		},
+		"browseToolButton": {
+			"title": "تصفح الإطارات"
+		},
+		"zoomToolButton": {
+			"title": "مقياس"
+		},
+		"windowLevelToolButton": {
+			"title": "مستوى النافذة"
+		},
+		"measurementsToolButton": {
+			"title": "قياسات"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "إعدادات مستوى نافذة DICOM"
+		},
+		"buildLineButton": {
+			"title": "إنشاء خط"
+		},
+		"buildLinesButton": {
+			"title": "إنشاء خطوط"
+		},
+		"buildAngleButton": {
+			"title": "إنشاء زاوية"
+		},
+		"buildEllipseButton": {
+			"title": "إنشاء قطع ناقص"
+		},
+		"buildCrossButton": {
+			"title": "إنشاء صليب"
+		},
+		"buildRectangleButton": {
+			"title": "إنشاء مستطيل"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "إزالة القياس المحدد"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "إزالة جميع القياسات"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "ملليمتر"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "سنتيمترات"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "بوصة"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "بكسل"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "إخفاء اللوحة الجانبية"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "مدير سلسلة DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "عرض"
+				},
+				"toolsLabel": {
+					"text": "أدوات"
+				},
+				"measurementsLabel": {
+					"text": "قياسات"
+				},
+				"showMobileMenuButton": {
+					"title": "المزيد"
+				},
+				"invertImageButton": {
+					"title": "عكس الصورة"
+				},
+				"resetViewButton": {
+					"title": "إعادة تعيين العرض"
+				},
+				"fitToWidthButton": {
+					"title": "ملاءمة الصورة للعرض"
+				},
+				"fitToHeightButton": {
+					"title": "ملاءمة الصورة للارتفاع"
+				},
+				"viewImageInBestFitButton": {
+					"title": "عرض الصورة بأفضل ملاءمة"
+				},
+				"showTextOverlaysButton": {
+					"title": "إظهار/إخفاء تراكبات النص"
+				},
+				"showMeasurementsButton": {
+					"title": "إظهار/إخفاء القياسات"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "متوسط"
+					}
+				},
+				"fullScreenButton": {
+					"title": "تكبير الشاشة"
+				},
+				"browseToolButton": {
+					"title": "تصفح الإطارات"
+				},
+				"panToolButton": {
+					"title": "عموم"
+				},
+				"zoomToolButton": {
+					"title": "مقياس"
+				},
+				"rotate3dToolButton": {
+					"title": "تدوير ثلاثي الأبعاد"
+				},
+				"rollToolButton": {
+					"title": "لف"
+				},
+				"windowLevelToolButton": {
+					"title": "مستوى النافذة"
+				},
+				"measurementsToolButton": {
+					"title": "قياسات"
+				},
+				"buildLineButton": {
+					"title": "إنشاء خط"
+				},
+				"buildLinesButton": {
+					"title": "إنشاء خطوط"
+				},
+				"buildAngleButton": {
+					"title": "إنشاء زاوية"
+				},
+				"buildEllipseButton": {
+					"title": "إنشاء قطع ناقص"
+				},
+				"buildCrossButton": {
+					"title": "إنشاء صليب"
+				},
+				"buildRectangleButton": {
+					"title": "إنشاء مستطيل"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "إزالة القياس المحدد"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "إزالة جميع القياسات"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "ملليمتر"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "سنتيمترات"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "بوصة"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "بكسل"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "الافتراضي VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "مخصص VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "سهمي..."
+		},
+		"CoronalButton": {
+			"value": "إكليلي..."
+		},
+		"AxialButton": {
+			"value": "محوري..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "MPR منحني"
+			},
+			"OnSagittalButton": {
+				"value": "على السهمي..."
+			},
+			"OnCoronalButton": {
+				"value": "على الإكليلي..."
+			},
+			"OnAxialButton": {
+				"value": "على المحوري..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "موافق"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "العرض:"
+			},
+			"centerLabel": {
+				"text": "مركز:"
+			},
+			"applyButton": {
+				"value": "يتقدم"
+			},
+			"okButton": {
+				"value": "موافق"
+			},
+			"cancelButton": {
+				"value": "إلغاء"
+			},
+			"resetButton": {
+				"value": "إعادة ضبط"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "خطأ"
+		},
+		"closeButton": {
+			"text": "إغلاق"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "تصوير مقطعي للبطن",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "الأشعة المقطعية للأوعية الدموية",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "العظام المقطعية",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "الدماغ المقطعي",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "الصدر المقطعي",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "التصوير المقطعي للرئتين",
+		"vsdm-selectDicomVoiLutTypePanel-width": "عرض",
+		"vsdm-selectDicomVoiLutTypePanel-center": "محاذاة للوسط",
+		"vsdm-metadataDialog-title": "البيانات التعريفية لملف DICOM",
+		"vsdm-dialog-okButton": "موافق",
+		"vsdm-metadataTable-tagId": "معرف العلامة",
+		"vsdm-metadataTable-length": "طول",
+		"vsdm-metadataTable-description": "وصف",
+		"vsdm-metadataTable-value": "القيمة",
+		"vsdm-customDicomVoiLutDialog-title": "مستوى النافذة",
+		"vsdm-dialog-applyButton": "يتقدم",
+		"vsdm-dialog-cancelButton": "إلغاء",
+		"vsdm-dialog-resetButton": "إعادة ضبط"
+	}
+}

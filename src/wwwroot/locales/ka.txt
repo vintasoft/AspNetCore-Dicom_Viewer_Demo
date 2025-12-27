@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "ფაილი"
+		},
+		"viewLabel": {
+			"text": "ხედი"
+		},
+		"toolsLabel": {
+			"text": "ხელსაწყოები"
+		},
+		"measurementsLabel": {
+			"text": "გაზომვები"
+		},
+		"showMobileMenuButton": {
+			"title": "მეტი"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "ატვირთეთ და დაამატეთ DICOM ფაილები"
+		},
+		"clearSessionCacheButton": {
+			"title": "სესიის ქეშის გასუფთავება"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM ფაილის მეტამონაცემების ჩვენება"
+		},
+		"fullScreenButton": {
+			"title": "Მთლიანი ეკრანი"
+		},
+		"zoomOutButton": {
+			"title": "მასშტაბირება"
+		},
+		"zoomInButton": {
+			"title": "Მიახლოება"
+		},
+		"invertImageButton": {
+			"title": "სურათის ინვერსია"
+		},
+		"resetViewButton": {
+			"title": "ხედის გადატვირთვა"
+		},
+		"fitToWidthButton": {
+			"title": "სურათის სიგანეზე მორგება"
+		},
+		"fitToHeightButton": {
+			"title": "სურათის სიმაღლეზე მორგება"
+		},
+		"viewImageInBestFitButton": {
+			"title": "იხილეთ სურათი საუკეთესო ფორმაში"
+		},
+		"showTextOverlaysButton": {
+			"title": "ტექსტის გადაფარვების ჩვენება/დამალვა"
+		},
+		"showMeasurementsButton": {
+			"title": "გაზომვების ჩვენება/დამალვა"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "გამოსახულების დახატვა ინტერპოლაციით"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "პან"
+		},
+		"browseToolButton": {
+			"title": "ჩარჩოების დათვალიერება"
+		},
+		"zoomToolButton": {
+			"title": "მასშტაბირება"
+		},
+		"windowLevelToolButton": {
+			"title": "ფანჯრის დონე"
+		},
+		"measurementsToolButton": {
+			"title": "გაზომვები"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM ფანჯრის დონის პარამეტრები"
+		},
+		"buildLineButton": {
+			"title": "ხაზის აშენება"
+		},
+		"buildLinesButton": {
+			"title": "ხაზების აშენება"
+		},
+		"buildAngleButton": {
+			"title": "აგების კუთხე"
+		},
+		"buildEllipseButton": {
+			"title": "ელიფსის აშენება"
+		},
+		"buildCrossButton": {
+			"title": "ააგეთ ჯვარი"
+		},
+		"buildRectangleButton": {
+			"title": "ააშენეთ მართკუთხედი"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "ამოიღეთ ფოკუსირებული გაზომვა"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "ამოიღეთ ყველა გაზომვა"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "მილიმეტრები"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "სანტიმეტრი"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "ინჩი"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "პიქსელები"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "გვერდითი პანელის დამალვა"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM სერიის მენეჯერი"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "ხედი"
+				},
+				"toolsLabel": {
+					"text": "ხელსაწყოები"
+				},
+				"measurementsLabel": {
+					"text": "გაზომვები"
+				},
+				"showMobileMenuButton": {
+					"title": "მეტი"
+				},
+				"invertImageButton": {
+					"title": "სურათის ინვერსია"
+				},
+				"resetViewButton": {
+					"title": "ხედის გადატვირთვა"
+				},
+				"fitToWidthButton": {
+					"title": "სურათის სიგანეზე მორგება"
+				},
+				"fitToHeightButton": {
+					"title": "სურათის სიმაღლეზე მორგება"
+				},
+				"viewImageInBestFitButton": {
+					"title": "იხილეთ სურათი საუკეთესო ფორმაში"
+				},
+				"showTextOverlaysButton": {
+					"title": "ტექსტის გადაფარვების ჩვენება/დამალვა"
+				},
+				"showMeasurementsButton": {
+					"title": "გაზომვების ჩვენება/დამალვა"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "საშუალო"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Მთლიანი ეკრანი"
+				},
+				"browseToolButton": {
+					"title": "ჩარჩოების დათვალიერება"
+				},
+				"panToolButton": {
+					"title": "პან"
+				},
+				"zoomToolButton": {
+					"title": "მასშტაბირება"
+				},
+				"rotate3dToolButton": {
+					"title": "3D როტაცია"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "ფანჯრის დონე"
+				},
+				"measurementsToolButton": {
+					"title": "გაზომვები"
+				},
+				"buildLineButton": {
+					"title": "ხაზის აშენება"
+				},
+				"buildLinesButton": {
+					"title": "ხაზების აშენება"
+				},
+				"buildAngleButton": {
+					"title": "აგების კუთხე"
+				},
+				"buildEllipseButton": {
+					"title": "ელიფსის აშენება"
+				},
+				"buildCrossButton": {
+					"title": "ააგეთ ჯვარი"
+				},
+				"buildRectangleButton": {
+					"title": "ააშენეთ მართკუთხედი"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "ამოიღეთ ფოკუსირებული გაზომვა"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "ამოიღეთ ყველა გაზომვა"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "მილიმეტრები"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "სანტიმეტრი"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "ინჩი"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "პიქსელები"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "ნაგულისხმევი VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "მორგებული VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "საგიტალური..."
+		},
+		"CoronalButton": {
+			"value": "კორონალური..."
+		},
+		"AxialButton": {
+			"value": "ღერძული..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "მრუდი MPR"
+			},
+			"OnSagittalButton": {
+				"value": "საგიტალურზე..."
+			},
+			"OnCoronalButton": {
+				"value": "კორონალზე..."
+			},
+			"OnAxialButton": {
+				"value": "ღერძულზე..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "კარგი"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "სიგანე:"
+			},
+			"centerLabel": {
+				"text": "ცენტრი:"
+			},
+			"applyButton": {
+				"value": "მიმართეთ"
+			},
+			"okButton": {
+				"value": "კარგი"
+			},
+			"cancelButton": {
+				"value": "გაუქმება"
+			},
+			"resetButton": {
+				"value": "გადატვირთვა"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "შეცდომა"
+		},
+		"closeButton": {
+			"text": "დახურვა"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "მუცლის CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "სისხლძარღვთა CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT ძვალი",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT ტვინის",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "გულმკერდის CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "ფილტვების CT",
+		"vsdm-selectDicomVoiLutTypePanel-width": "სიგანე",
+		"vsdm-selectDicomVoiLutTypePanel-center": "ცენტრი",
+		"vsdm-metadataDialog-title": "DICOM ფაილის მეტამონაცემები",
+		"vsdm-dialog-okButton": "კარგი",
+		"vsdm-metadataTable-tagId": "ტეგის ID",
+		"vsdm-metadataTable-length": "სიგრძე",
+		"vsdm-metadataTable-description": "აღწერა",
+		"vsdm-metadataTable-value": "ღირებულება",
+		"vsdm-customDicomVoiLutDialog-title": "ფანჯრის დონე",
+		"vsdm-dialog-applyButton": "მიმართეთ",
+		"vsdm-dialog-cancelButton": "გაუქმება",
+		"vsdm-dialog-resetButton": "გადატვირთვა"
+	}
+}

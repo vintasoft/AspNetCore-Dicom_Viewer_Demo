@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Faýl"
+		},
+		"viewLabel": {
+			"text": "Gör"
+		},
+		"toolsLabel": {
+			"text": "Gurallar"
+		},
+		"measurementsLabel": {
+			"text": "Ölçegler"
+		},
+		"showMobileMenuButton": {
+			"title": "Has köp"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "DICOM faýllaryny ýükläň we goşuň"
+		},
+		"clearSessionCacheButton": {
+			"title": "Sessiýa keşini arassalaň"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM faýl meta-maglumatyny görkeziň"
+		},
+		"fullScreenButton": {
+			"title": "Doly ekran"
+		},
+		"zoomOutButton": {
+			"title": "Ulaltmak"
+		},
+		"zoomInButton": {
+			"title": "Ýakynlaşdyrmak"
+		},
+		"invertImageButton": {
+			"title": "Suraty tersine"
+		},
+		"resetViewButton": {
+			"title": "Görnüşi täzeden düzmek"
+		},
+		"fitToWidthButton": {
+			"title": "Suraty inine laýyklaşdyryň"
+		},
+		"fitToHeightButton": {
+			"title": "Suraty beýiklige laýyklaşdyryň"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Suraty iň oňat görnüşde görüň"
+		},
+		"showTextOverlaysButton": {
+			"title": "Tekstiň üst-üstlerini görkez / gizle"
+		},
+		"showMeasurementsButton": {
+			"title": "Ölçegleri görkez / gizle"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Interpolýasiýa bilen surat çekiň"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Çarçuwalara göz aýlaň"
+		},
+		"zoomToolButton": {
+			"title": "Ulaltmak"
+		},
+		"windowLevelToolButton": {
+			"title": "Penjiräniň derejesi"
+		},
+		"measurementsToolButton": {
+			"title": "Ölçegler"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM penjire derejesiniň sazlamalary"
+		},
+		"buildLineButton": {
+			"title": "Setir gurmak"
+		},
+		"buildLinesButton": {
+			"title": "Setirler guruň"
+		},
+		"buildAngleButton": {
+			"title": "Burç guruň"
+		},
+		"buildEllipseButton": {
+			"title": "Ellips gur"
+		},
+		"buildCrossButton": {
+			"title": "Haç guruň"
+		},
+		"buildRectangleButton": {
+			"title": "Gönüburçluk guruň"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Ünsli ölçegi aýyryň"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Meashli ölçegleri aýyryň"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Millimetr"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Santimetr"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Inçler"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Piksel"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Gapdal paneli gizläň"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM seriýa dolandyryjysy"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Gör"
+				},
+				"toolsLabel": {
+					"text": "Gurallar"
+				},
+				"measurementsLabel": {
+					"text": "Ölçegler"
+				},
+				"showMobileMenuButton": {
+					"title": "Has köp"
+				},
+				"invertImageButton": {
+					"title": "Suraty tersine"
+				},
+				"resetViewButton": {
+					"title": "Görnüşi täzeden düzmek"
+				},
+				"fitToWidthButton": {
+					"title": "Suraty inine laýyklaşdyryň"
+				},
+				"fitToHeightButton": {
+					"title": "Suraty beýiklige laýyklaşdyryň"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Suraty iň oňat görnüşde görüň"
+				},
+				"showTextOverlaysButton": {
+					"title": "Tekstiň üst-üstlerini görkez / gizle"
+				},
+				"showMeasurementsButton": {
+					"title": "Ölçegleri görkez / gizle"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Ortaça"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Doly ekran"
+				},
+				"browseToolButton": {
+					"title": "Çarçuwalara göz aýlaň"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Ulaltmak"
+				},
+				"rotate3dToolButton": {
+					"title": "3D aýlaň"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Penjiräniň derejesi"
+				},
+				"measurementsToolButton": {
+					"title": "Ölçegler"
+				},
+				"buildLineButton": {
+					"title": "Setir gurmak"
+				},
+				"buildLinesButton": {
+					"title": "Setirler guruň"
+				},
+				"buildAngleButton": {
+					"title": "Burç guruň"
+				},
+				"buildEllipseButton": {
+					"title": "Ellips gur"
+				},
+				"buildCrossButton": {
+					"title": "Haç guruň"
+				},
+				"buildRectangleButton": {
+					"title": "Gönüburçluk guruň"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Ünsli ölçegi aýyryň"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Meashli ölçegleri aýyryň"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Millimetr"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Santimetr"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Inçler"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Piksel"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Bellenen VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Vörite VOI LUT ..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagittal..."
+		},
+		"CoronalButton": {
+			"value": "Koronal..."
+		},
+		"AxialButton": {
+			"value": "Ok..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Egrilik MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Sagittalda..."
+			},
+			"OnCoronalButton": {
+				"value": "Koronalda..."
+			},
+			"OnAxialButton": {
+				"value": "Okda..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "Bolýar"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Giňligi:"
+			},
+			"centerLabel": {
+				"text": "Merkez:"
+			},
+			"applyButton": {
+				"value": "Giriş"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"cancelButton": {
+				"value": "Elatyr"
+			},
+			"resetButton": {
+				"value": "Täzeden düzmek"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Roralňyşlyk"
+		},
+		"closeButton": {
+			"text": ".Akyn"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "KT garny",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "KT damar",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "KT süňk",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT beýni",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "Gursak",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "KT öýken",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Ini",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Merkez",
+		"vsdm-metadataDialog-title": "DICOM Faýl meta-maglumaty",
+		"vsdm-dialog-okButton": "Bolýar",
+		"vsdm-metadataTable-tagId": "Bellik belgisi",
+		"vsdm-metadataTable-length": "Uzynlyk",
+		"vsdm-metadataTable-description": "Düşündiriş",
+		"vsdm-metadataTable-value": "Gymmatlyk",
+		"vsdm-customDicomVoiLutDialog-title": "Penjiräniň derejesi",
+		"vsdm-dialog-applyButton": "Giriş",
+		"vsdm-dialog-cancelButton": "Elatyr",
+		"vsdm-dialog-resetButton": "Täzeden düzmek"
+	}
+}

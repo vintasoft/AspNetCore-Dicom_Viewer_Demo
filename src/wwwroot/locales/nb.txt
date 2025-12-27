@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Fil"
+		},
+		"viewLabel": {
+			"text": "Vis"
+		},
+		"toolsLabel": {
+			"text": "Verktøy"
+		},
+		"measurementsLabel": {
+			"text": "Målinger"
+		},
+		"showMobileMenuButton": {
+			"title": "Mer"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Last opp og legg til DICOM-filer"
+		},
+		"clearSessionCacheButton": {
+			"title": "Tøm øktbufferen"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Vis DICOM-filmetadata"
+		},
+		"fullScreenButton": {
+			"title": "Full skjerm"
+		},
+		"zoomOutButton": {
+			"title": "Zoom ut"
+		},
+		"zoomInButton": {
+			"title": "Zoom inn"
+		},
+		"invertImageButton": {
+			"title": "Inverter bildet"
+		},
+		"resetViewButton": {
+			"title": "Tilbakestill visning"
+		},
+		"fitToWidthButton": {
+			"title": "Tilpass bildet til bredden"
+		},
+		"fitToHeightButton": {
+			"title": "Tilpass bildet til høyden"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Se bildet i beste passform"
+		},
+		"showTextOverlaysButton": {
+			"title": "Vis/skjul tekstoverlegg"
+		},
+		"showMeasurementsButton": {
+			"title": "Vis/skjul mål"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Tegn bilde med interpolasjon"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Bla gjennom rammer"
+		},
+		"zoomToolButton": {
+			"title": "Skala"
+		},
+		"windowLevelToolButton": {
+			"title": "Vindusnivå"
+		},
+		"measurementsToolButton": {
+			"title": "Målinger"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM-vindusnivåinnstillinger"
+		},
+		"buildLineButton": {
+			"title": "Bygg linje"
+		},
+		"buildLinesButton": {
+			"title": "Bygg linjer"
+		},
+		"buildAngleButton": {
+			"title": "Bygg vinkel"
+		},
+		"buildEllipseButton": {
+			"title": "Bygg ellipse"
+		},
+		"buildCrossButton": {
+			"title": "Bygg kors"
+		},
+		"buildRectangleButton": {
+			"title": "Bygg rektangel"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Fjern fokusert måling"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Fjern alle mål"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Millimeter"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Centimeter"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Tommer"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Piksler"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Skjul sidepanel"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM-serieleder"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Vis"
+				},
+				"toolsLabel": {
+					"text": "Verktøy"
+				},
+				"measurementsLabel": {
+					"text": "Målinger"
+				},
+				"showMobileMenuButton": {
+					"title": "Mer"
+				},
+				"invertImageButton": {
+					"title": "Inverter bildet"
+				},
+				"resetViewButton": {
+					"title": "Tilbakestill visning"
+				},
+				"fitToWidthButton": {
+					"title": "Tilpass bildet til bredden"
+				},
+				"fitToHeightButton": {
+					"title": "Tilpass bildet til høyden"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Se bildet i beste passform"
+				},
+				"showTextOverlaysButton": {
+					"title": "Vis/skjul tekstoverlegg"
+				},
+				"showMeasurementsButton": {
+					"title": "Vis/skjul mål"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "Min IP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Gjennomsnittlig"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Full skjerm"
+				},
+				"browseToolButton": {
+					"title": "Bla gjennom rammer"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Skala"
+				},
+				"rotate3dToolButton": {
+					"title": "Roter 3D"
+				},
+				"rollToolButton": {
+					"title": "Rulle"
+				},
+				"windowLevelToolButton": {
+					"title": "Vindusnivå"
+				},
+				"measurementsToolButton": {
+					"title": "Målinger"
+				},
+				"buildLineButton": {
+					"title": "Bygg linje"
+				},
+				"buildLinesButton": {
+					"title": "Bygg linjer"
+				},
+				"buildAngleButton": {
+					"title": "Bygg vinkel"
+				},
+				"buildEllipseButton": {
+					"title": "Bygg ellipse"
+				},
+				"buildCrossButton": {
+					"title": "Bygg kors"
+				},
+				"buildRectangleButton": {
+					"title": "Bygg rektangel"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Fjern fokusert måling"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Fjern alle mål"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Millimeter"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Centimeter"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Tommer"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Piksler"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Standard VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Egendefinert VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagittal..."
+		},
+		"CoronalButton": {
+			"value": "Coronal..."
+		},
+		"AxialButton": {
+			"value": "Aksial..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Buet MPR"
+			},
+			"OnSagittalButton": {
+				"value": "På sagittal..."
+			},
+			"OnCoronalButton": {
+				"value": "På koronal..."
+			},
+			"OnAxialButton": {
+				"value": "På aksial..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Bredde:"
+			},
+			"centerLabel": {
+				"text": "Senter:"
+			},
+			"applyButton": {
+				"value": "Søke om"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Avbryt"
+			},
+			"resetButton": {
+				"value": "Nullstille"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Feil"
+		},
+		"closeButton": {
+			"text": "Lukk"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT Abdomen",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT Vaskulær",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT bein",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT hjerne",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT bryst",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT lunger",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Bredde",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Senterjuster",
+		"vsdm-metadataDialog-title": "DICOM-filmetadata",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "Tag-ID",
+		"vsdm-metadataTable-length": "Lengde",
+		"vsdm-metadataTable-description": "Beskrivelse",
+		"vsdm-metadataTable-value": "Verdi",
+		"vsdm-customDicomVoiLutDialog-title": "Vindunivå",
+		"vsdm-dialog-applyButton": "Søke om",
+		"vsdm-dialog-cancelButton": "Avbryt",
+		"vsdm-dialog-resetButton": "Nullstille"
+	}
+}

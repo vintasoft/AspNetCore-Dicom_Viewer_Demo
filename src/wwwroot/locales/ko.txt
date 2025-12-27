@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "파일"
+		},
+		"viewLabel": {
+			"text": "보기"
+		},
+		"toolsLabel": {
+			"text": "도구"
+		},
+		"measurementsLabel": {
+			"text": "측정"
+		},
+		"showMobileMenuButton": {
+			"title": "더보기"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "DICOM 파일 업로드 및 추가"
+		},
+		"clearSessionCacheButton": {
+			"title": "세션 캐시 지우기"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "DICOM 파일 메타데이터 표시"
+		},
+		"fullScreenButton": {
+			"title": "전체 화면"
+		},
+		"zoomOutButton": {
+			"title": "축소"
+		},
+		"zoomInButton": {
+			"title": "확대"
+		},
+		"invertImageButton": {
+			"title": "이미지 반전"
+		},
+		"resetViewButton": {
+			"title": "보기 재설정"
+		},
+		"fitToWidthButton": {
+			"title": "이미지를 너비에 맞춤"
+		},
+		"fitToHeightButton": {
+			"title": "이미지를 높이에 맞춤"
+		},
+		"viewImageInBestFitButton": {
+			"title": "이미지를 가장 잘 맞는 방식으로 보기"
+		},
+		"showTextOverlaysButton": {
+			"title": "텍스트 오버레이 표시/숨기기"
+		},
+		"showMeasurementsButton": {
+			"title": "측정값 표시/숨기기"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "보간을 사용하여 이미지 그리기"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "팬"
+		},
+		"browseToolButton": {
+			"title": "프레임 찾아보기"
+		},
+		"zoomToolButton": {
+			"title": "축척"
+		},
+		"windowLevelToolButton": {
+			"title": "창 수준"
+		},
+		"measurementsToolButton": {
+			"title": "측정"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM 창 수준 설정"
+		},
+		"buildLineButton": {
+			"title": "선 만들기"
+		},
+		"buildLinesButton": {
+			"title": "선 만들기"
+		},
+		"buildAngleButton": {
+			"title": "각도 만들기"
+		},
+		"buildEllipseButton": {
+			"title": "타원 만들기"
+		},
+		"buildCrossButton": {
+			"title": "십자 모양 만들기"
+		},
+		"buildRectangleButton": {
+			"title": "사각형 만들기"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "초점 측정 제거"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "모든 측정값 제거"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "밀리미터"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "센티미터"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "신장"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "픽셀"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "측면 패널 숨기기"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM 시리즈 관리자"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "보기"
+				},
+				"toolsLabel": {
+					"text": "도구"
+				},
+				"measurementsLabel": {
+					"text": "측정"
+				},
+				"showMobileMenuButton": {
+					"title": "더보기"
+				},
+				"invertImageButton": {
+					"title": "이미지 반전"
+				},
+				"resetViewButton": {
+					"title": "보기 재설정"
+				},
+				"fitToWidthButton": {
+					"title": "이미지를 너비에 맞춤"
+				},
+				"fitToHeightButton": {
+					"title": "이미지를 높이에 맞춤"
+				},
+				"viewImageInBestFitButton": {
+					"title": "이미지를 가장 잘 맞는 방식으로 보기"
+				},
+				"showTextOverlaysButton": {
+					"title": "텍스트 오버레이 표시/숨기기"
+				},
+				"showMeasurementsButton": {
+					"title": "측정값 표시/숨기기"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "평균"
+					}
+				},
+				"fullScreenButton": {
+					"title": "전체 화면"
+				},
+				"browseToolButton": {
+					"title": "프레임 찾아보기"
+				},
+				"panToolButton": {
+					"title": "팬"
+				},
+				"zoomToolButton": {
+					"title": "축척"
+				},
+				"rotate3dToolButton": {
+					"title": "3D 회전"
+				},
+				"rollToolButton": {
+					"title": "롤"
+				},
+				"windowLevelToolButton": {
+					"title": "창 수준"
+				},
+				"measurementsToolButton": {
+					"title": "측정"
+				},
+				"buildLineButton": {
+					"title": "선 만들기"
+				},
+				"buildLinesButton": {
+					"title": "선 만들기"
+				},
+				"buildAngleButton": {
+					"title": "각도 만들기"
+				},
+				"buildEllipseButton": {
+					"title": "타원 만들기"
+				},
+				"buildCrossButton": {
+					"title": "십자 모양 만들기"
+				},
+				"buildRectangleButton": {
+					"title": "사각형 만들기"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "초점 측정 제거"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "모든 측정값 제거"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "밀리미터"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "센티미터"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "신장"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "픽셀"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "기본 VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "맞춤형 VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "사지탈..."
+		},
+		"CoronalButton": {
+			"value": "관상..."
+		},
+		"AxialButton": {
+			"value": "축상..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "곡선 MPR"
+			},
+			"OnSagittalButton": {
+				"value": "사지탈에..."
+			},
+			"OnCoronalButton": {
+				"value": "관상..."
+			},
+			"OnAxialButton": {
+				"value": "축상..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "확인"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "너비:"
+			},
+			"centerLabel": {
+				"text": "센터:"
+			},
+			"applyButton": {
+				"value": "적용하다"
+			},
+			"okButton": {
+				"value": "확인"
+			},
+			"cancelButton": {
+				"value": "취소"
+			},
+			"resetButton": {
+				"value": "초기화"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "오류"
+		},
+		"closeButton": {
+			"text": "닫기"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT 복부",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT 혈관",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT 뼈",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT 브레인",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT 가슴",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT 폐",
+		"vsdm-selectDicomVoiLutTypePanel-width": "너비",
+		"vsdm-selectDicomVoiLutTypePanel-center": "가운데 정렬",
+		"vsdm-metadataDialog-title": "DICOM 파일 메타데이터",
+		"vsdm-dialog-okButton": "확인",
+		"vsdm-metadataTable-tagId": "태그 ID",
+		"vsdm-metadataTable-length": "길이",
+		"vsdm-metadataTable-description": "설명",
+		"vsdm-metadataTable-value": "값",
+		"vsdm-customDicomVoiLutDialog-title": "창 수준",
+		"vsdm-dialog-applyButton": "적용하다",
+		"vsdm-dialog-cancelButton": "취소",
+		"vsdm-dialog-resetButton": "초기화"
+	}
+}

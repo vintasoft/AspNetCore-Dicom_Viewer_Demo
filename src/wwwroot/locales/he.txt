@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "קובץ"
+		},
+		"viewLabel": {
+			"text": "הצג"
+		},
+		"toolsLabel": {
+			"text": "כלים"
+		},
+		"measurementsLabel": {
+			"text": "מידות"
+		},
+		"showMobileMenuButton": {
+			"title": "עוד"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "העלה והוסף קבצי DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "נקה את מטמון ההפעלה"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "הצג מטא נתונים של קובץ DICOM"
+		},
+		"fullScreenButton": {
+			"title": "מסך מלא"
+		},
+		"zoomOutButton": {
+			"title": "התקרבות"
+		},
+		"zoomInButton": {
+			"title": "התקרב"
+		},
+		"invertImageButton": {
+			"title": "הפוך תמונה"
+		},
+		"resetViewButton": {
+			"title": "לאפס תצוגה"
+		},
+		"fitToWidthButton": {
+			"title": "התאם תמונה לרוחב"
+		},
+		"fitToHeightButton": {
+			"title": "התאם תמונה לגובה"
+		},
+		"viewImageInBestFitButton": {
+			"title": "צפה בתמונה בהתאמה הטובה ביותר"
+		},
+		"showTextOverlaysButton": {
+			"title": "הצג/הסתר שכבות טקסט"
+		},
+		"showMeasurementsButton": {
+			"title": "הצג/הסתיר מידות"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "צייר תמונה עם אינטרפולציה"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "פאן"
+		},
+		"browseToolButton": {
+			"title": "עיין במסגרות"
+		},
+		"zoomToolButton": {
+			"title": "קנה מידה"
+		},
+		"windowLevelToolButton": {
+			"title": "מפלס החלון"
+		},
+		"measurementsToolButton": {
+			"title": "מידות"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "הגדרות רמת חלון DICOM"
+		},
+		"buildLineButton": {
+			"title": "בניית קו"
+		},
+		"buildLinesButton": {
+			"title": "בנה קווים"
+		},
+		"buildAngleButton": {
+			"title": "בניית זווית"
+		},
+		"buildEllipseButton": {
+			"title": "בנה אליפסה"
+		},
+		"buildCrossButton": {
+			"title": "בנה צלב"
+		},
+		"buildRectangleButton": {
+			"title": "בנה מלבן"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "הסר מדידה ממוקדת"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "הסר את כל המידות"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "מילימטרים"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "סנטימטרים"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "אינץ"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "פיקסלים"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "הסתר לוח צד"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "מנהל סדרת DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "הצג"
+				},
+				"toolsLabel": {
+					"text": "כלים"
+				},
+				"measurementsLabel": {
+					"text": "מידות"
+				},
+				"showMobileMenuButton": {
+					"title": "עוד"
+				},
+				"invertImageButton": {
+					"title": "הפוך תמונה"
+				},
+				"resetViewButton": {
+					"title": "לאפס תצוגה"
+				},
+				"fitToWidthButton": {
+					"title": "התאם תמונה לרוחב"
+				},
+				"fitToHeightButton": {
+					"title": "התאם תמונה לגובה"
+				},
+				"viewImageInBestFitButton": {
+					"title": "צפה בתמונה בהתאמה הטובה ביותר"
+				},
+				"showTextOverlaysButton": {
+					"title": "הצג/הסתר שכבות טקסט"
+				},
+				"showMeasurementsButton": {
+					"title": "הצג/הסתיר מידות"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "מְמוּצָע"
+					}
+				},
+				"fullScreenButton": {
+					"title": "מסך מלא"
+				},
+				"browseToolButton": {
+					"title": "עיין במסגרות"
+				},
+				"panToolButton": {
+					"title": "פאן"
+				},
+				"zoomToolButton": {
+					"title": "קנה מידה"
+				},
+				"rotate3dToolButton": {
+					"title": "סובב תלת מימד"
+				},
+				"rollToolButton": {
+					"title": "גָלִיל"
+				},
+				"windowLevelToolButton": {
+					"title": "מפלס החלון"
+				},
+				"measurementsToolButton": {
+					"title": "מידות"
+				},
+				"buildLineButton": {
+					"title": "בניית קו"
+				},
+				"buildLinesButton": {
+					"title": "בנה קווים"
+				},
+				"buildAngleButton": {
+					"title": "בניית זווית"
+				},
+				"buildEllipseButton": {
+					"title": "בנה אליפסה"
+				},
+				"buildCrossButton": {
+					"title": "בנה צלב"
+				},
+				"buildRectangleButton": {
+					"title": "בנה מלבן"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "הסר מדידה ממוקדת"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "הסר את כל המידות"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "מילימטרים"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "סנטימטרים"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "אינץ"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "פיקסלים"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "ברירת מחדל VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "VOI LUT מותאם אישית..."
+		},
+		"Mpr3dButton": {
+			"value": "MPR תלת מימד..."
+		},
+		"SagittalButton": {
+			"value": "שגיטל..."
+		},
+		"CoronalButton": {
+			"value": "קורונלי..."
+		},
+		"AxialButton": {
+			"value": "צִירִי..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "MPR מעוקל"
+			},
+			"OnSagittalButton": {
+				"value": "על סגיטל..."
+			},
+			"OnCoronalButton": {
+				"value": "על העטרה..."
+			},
+			"OnAxialButton": {
+				"value": "על צירי..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "בסדר"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "רוחב:"
+			},
+			"centerLabel": {
+				"text": "מֶרְכָּז:"
+			},
+			"applyButton": {
+				"value": "להגיש מועמדות"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"cancelButton": {
+				"value": "בטל"
+			},
+			"resetButton": {
+				"value": "אִתחוּל"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "שגיאה"
+		},
+		"closeButton": {
+			"text": "סגור"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT בטן",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT כלי דם",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "עצם CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT מוח",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT חזה",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT ריאות",
+		"vsdm-selectDicomVoiLutTypePanel-width": "רוֹחַב",
+		"vsdm-selectDicomVoiLutTypePanel-center": "יישור מרכז",
+		"vsdm-metadataDialog-title": "מטא נתונים של קובץ DICOM",
+		"vsdm-dialog-okButton": "בסדר",
+		"vsdm-metadataTable-tagId": "מזהה תג",
+		"vsdm-metadataTable-length": "אורך",
+		"vsdm-metadataTable-description": "תיאור",
+		"vsdm-metadataTable-value": "הערך",
+		"vsdm-customDicomVoiLutDialog-title": "רמת חלון",
+		"vsdm-dialog-applyButton": "להגיש מועמדות",
+		"vsdm-dialog-cancelButton": "בטל",
+		"vsdm-dialog-resetButton": "אִתחוּל"
+	}
+}

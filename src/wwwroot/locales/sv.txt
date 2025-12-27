@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Fil"
+		},
+		"viewLabel": {
+			"text": "Visa"
+		},
+		"toolsLabel": {
+			"text": "Verktyg"
+		},
+		"measurementsLabel": {
+			"text": "Mått"
+		},
+		"showMobileMenuButton": {
+			"title": "Mer"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Ladda upp och lägg till DICOM-filer"
+		},
+		"clearSessionCacheButton": {
+			"title": "Rensa sessionscache"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Visa DICOM-filmetadata"
+		},
+		"fullScreenButton": {
+			"title": "Fullskärm"
+		},
+		"zoomOutButton": {
+			"title": "Zooma ut"
+		},
+		"zoomInButton": {
+			"title": "Zooma in"
+		},
+		"invertImageButton": {
+			"title": "Invertera bilden"
+		},
+		"resetViewButton": {
+			"title": "Återställ vy"
+		},
+		"fitToWidthButton": {
+			"title": "Anpassa bilden till bredden"
+		},
+		"fitToHeightButton": {
+			"title": "Anpassa bilden till höjden"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Se bilden i bästa passform"
+		},
+		"showTextOverlaysButton": {
+			"title": "Visa/dölj textöverlägg"
+		},
+		"showMeasurementsButton": {
+			"title": "Visa/dölj mått"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Rita bild med interpolation"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Panera"
+		},
+		"browseToolButton": {
+			"title": "Bläddra bland ramar"
+		},
+		"zoomToolButton": {
+			"title": "Skala"
+		},
+		"windowLevelToolButton": {
+			"title": "Fönsternivå"
+		},
+		"measurementsToolButton": {
+			"title": "Mått"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM fönsternivåinställningar"
+		},
+		"buildLineButton": {
+			"title": "Bygg linje"
+		},
+		"buildLinesButton": {
+			"title": "Bygg linjer"
+		},
+		"buildAngleButton": {
+			"title": "Bygg vinkel"
+		},
+		"buildEllipseButton": {
+			"title": "Bygg ellips"
+		},
+		"buildCrossButton": {
+			"title": "Bygg kors"
+		},
+		"buildRectangleButton": {
+			"title": "Bygg rektangel"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Ta bort fokuserad mätning"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Ta bort alla mått"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Millimeter"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Centimeter"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Inches"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Pixels"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Dölj sidopanelen"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM serie manager"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Visa"
+				},
+				"toolsLabel": {
+					"text": "Verktyg"
+				},
+				"measurementsLabel": {
+					"text": "Mått"
+				},
+				"showMobileMenuButton": {
+					"title": "Mer"
+				},
+				"invertImageButton": {
+					"title": "Invertera bilden"
+				},
+				"resetViewButton": {
+					"title": "Återställ vy"
+				},
+				"fitToWidthButton": {
+					"title": "Anpassa bilden till bredden"
+				},
+				"fitToHeightButton": {
+					"title": "Anpassa bilden till höjden"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Se bilden i bästa passform"
+				},
+				"showTextOverlaysButton": {
+					"title": "Visa/dölj textöverlägg"
+				},
+				"showMeasurementsButton": {
+					"title": "Visa/dölj mått"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "Min IP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Genomsnitt"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Fullskärm"
+				},
+				"browseToolButton": {
+					"title": "Bläddra bland ramar"
+				},
+				"panToolButton": {
+					"title": "Panera"
+				},
+				"zoomToolButton": {
+					"title": "Skala"
+				},
+				"rotate3dToolButton": {
+					"title": "Rotera 3D"
+				},
+				"rollToolButton": {
+					"title": "Rulla"
+				},
+				"windowLevelToolButton": {
+					"title": "Fönsternivå"
+				},
+				"measurementsToolButton": {
+					"title": "Mått"
+				},
+				"buildLineButton": {
+					"title": "Bygg linje"
+				},
+				"buildLinesButton": {
+					"title": "Bygg linjer"
+				},
+				"buildAngleButton": {
+					"title": "Bygg vinkel"
+				},
+				"buildEllipseButton": {
+					"title": "Bygg ellips"
+				},
+				"buildCrossButton": {
+					"title": "Bygg kors"
+				},
+				"buildRectangleButton": {
+					"title": "Bygg rektangel"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Ta bort fokuserad mätning"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Ta bort alla mått"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Millimeter"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Centimeter"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Inches"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Pixels"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Standard VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Anpassad VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagittal..."
+		},
+		"CoronalButton": {
+			"value": "Coronal..."
+		},
+		"AxialButton": {
+			"value": "Axial..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Böjd MPR"
+			},
+			"OnSagittalButton": {
+				"value": "På sagittal..."
+			},
+			"OnCoronalButton": {
+				"value": "På coronal..."
+			},
+			"OnAxialButton": {
+				"value": "På axiell..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Bredd:"
+			},
+			"centerLabel": {
+				"text": "Centrum:"
+			},
+			"applyButton": {
+				"value": "Tillämpa"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Avbryt"
+			},
+			"resetButton": {
+				"value": "Återställa"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Fel"
+		},
+		"closeButton": {
+			"text": "Stäng"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT Abdomen",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT Vaskulär",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Bone",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT hjärna",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT bröst",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT-lungor",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Bredd",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Justera centrera",
+		"vsdm-metadataDialog-title": "DICOM-filmetadata",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "Tag-ID",
+		"vsdm-metadataTable-length": "Längd",
+		"vsdm-metadataTable-description": "Beskrivning",
+		"vsdm-metadataTable-value": "Värde",
+		"vsdm-customDicomVoiLutDialog-title": "Fönsternivå",
+		"vsdm-dialog-applyButton": "Tillämpa",
+		"vsdm-dialog-cancelButton": "Avbryt",
+		"vsdm-dialog-resetButton": "Återställa"
+	}
+}

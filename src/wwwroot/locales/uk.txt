@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"viewLabel": {
+			"text": "Переглянути"
+		},
+		"toolsLabel": {
+			"text": "Інструменти"
+		},
+		"measurementsLabel": {
+			"text": "Вимірювання"
+		},
+		"showMobileMenuButton": {
+			"title": "більше"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Завантажте та додайте файли DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Очистити кеш сесії"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Показати метадані файлу DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Повноекранний"
+		},
+		"zoomOutButton": {
+			"title": "Зменшення"
+		},
+		"zoomInButton": {
+			"title": "Збільшувати"
+		},
+		"invertImageButton": {
+			"title": "Перевернути зображення"
+		},
+		"resetViewButton": {
+			"title": "Скинути перегляд"
+		},
+		"fitToWidthButton": {
+			"title": "Підігнати зображення по ширині"
+		},
+		"fitToHeightButton": {
+			"title": "Підігнати зображення до висоти"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Перегляньте зображення в найкращому варіанті"
+		},
+		"showTextOverlaysButton": {
+			"title": "Показати/сховати накладання тексту"
+		},
+		"showMeasurementsButton": {
+			"title": "Показати/сховати вимірювання"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Намалювати зображення з інтерполяцією"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Пан"
+		},
+		"browseToolButton": {
+			"title": "Перегляд кадрів"
+		},
+		"zoomToolButton": {
+			"title": "Збільшити"
+		},
+		"windowLevelToolButton": {
+			"title": "Віконний рівень"
+		},
+		"measurementsToolButton": {
+			"title": "Вимірювання"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Налаштування рівня вікна DICOM"
+		},
+		"buildLineButton": {
+			"title": "Лінія побудови"
+		},
+		"buildLinesButton": {
+			"title": "Побудувати лінії"
+		},
+		"buildAngleButton": {
+			"title": "Кут побудови"
+		},
+		"buildEllipseButton": {
+			"title": "Побудувати еліпс"
+		},
+		"buildCrossButton": {
+			"title": "Побудувати хрест"
+		},
+		"buildRectangleButton": {
+			"title": "Побудувати прямокутник"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Видалити сфокусоване вимірювання"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Зняти всі вимірювання"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "міліметрів"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Сантиметри"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Дюйми"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Пікселі"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Сховати бічну панель"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Менеджер серії DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Переглянути"
+				},
+				"toolsLabel": {
+					"text": "Інструменти"
+				},
+				"measurementsLabel": {
+					"text": "Вимірювання"
+				},
+				"showMobileMenuButton": {
+					"title": "більше"
+				},
+				"invertImageButton": {
+					"title": "Перевернути зображення"
+				},
+				"resetViewButton": {
+					"title": "Скинути перегляд"
+				},
+				"fitToWidthButton": {
+					"title": "Підігнати зображення по ширині"
+				},
+				"fitToHeightButton": {
+					"title": "Підігнати зображення до висоти"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Перегляньте зображення в найкращому варіанті"
+				},
+				"showTextOverlaysButton": {
+					"title": "Показати/сховати накладання тексту"
+				},
+				"showMeasurementsButton": {
+					"title": "Показати/сховати вимірювання"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Середнє"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Повноекранний"
+				},
+				"browseToolButton": {
+					"title": "Перегляд кадрів"
+				},
+				"panToolButton": {
+					"title": "Пан"
+				},
+				"zoomToolButton": {
+					"title": "Збільшити"
+				},
+				"rotate3dToolButton": {
+					"title": "Поворот 3D"
+				},
+				"rollToolButton": {
+					"title": "Обертання"
+				},
+				"windowLevelToolButton": {
+					"title": "Віконний рівень"
+				},
+				"measurementsToolButton": {
+					"title": "Вимірювання"
+				},
+				"buildLineButton": {
+					"title": "Лінія побудови"
+				},
+				"buildLinesButton": {
+					"title": "Побудувати лінії"
+				},
+				"buildAngleButton": {
+					"title": "Кут побудови"
+				},
+				"buildEllipseButton": {
+					"title": "Побудувати еліпс"
+				},
+				"buildCrossButton": {
+					"title": "Побудувати хрест"
+				},
+				"buildRectangleButton": {
+					"title": "Побудувати прямокутник"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Видалити сфокусоване вимірювання"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Зняти всі вимірювання"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "міліметрів"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Сантиметри"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Дюйми"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Пікселі"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "VOI LUT за замовчуванням"
+		},
+		"customVoiLutButton": {
+			"value": "Спеціальний VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Сагітальний..."
+		},
+		"CoronalButton": {
+			"value": "Корональний..."
+		},
+		"AxialButton": {
+			"value": "Осьовий..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Вигнутий MPR"
+			},
+			"OnSagittalButton": {
+				"value": "На сагітальному..."
+			},
+			"OnCoronalButton": {
+				"value": "На корональних..."
+			},
+			"OnAxialButton": {
+				"value": "На осьовому..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "В порядку"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Ширина:"
+			},
+			"centerLabel": {
+				"text": "центр:"
+			},
+			"applyButton": {
+				"value": "Застосувати"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"cancelButton": {
+				"value": "Скасувати"
+			},
+			"resetButton": {
+				"value": "Скинути"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Помилка"
+		},
+		"closeButton": {
+			"text": "Закрити"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "КТ живота",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "КТ судин",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "КТ кістки",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "КТ головного мозку",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "КТ грудної клітини",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "КТ легень",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Ширина",
+		"vsdm-selectDicomVoiLutTypePanel-center": "центр",
+		"vsdm-metadataDialog-title": "Метадані файлу DICOM",
+		"vsdm-dialog-okButton": "В порядку",
+		"vsdm-metadataTable-tagId": "ID мітки",
+		"vsdm-metadataTable-length": "Довжина",
+		"vsdm-metadataTable-description": "опис",
+		"vsdm-metadataTable-value": "Значення",
+		"vsdm-customDicomVoiLutDialog-title": "Рівень вікна",
+		"vsdm-dialog-applyButton": "Застосувати",
+		"vsdm-dialog-cancelButton": "Скасувати",
+		"vsdm-dialog-resetButton": "Скинути"
+	}
+}

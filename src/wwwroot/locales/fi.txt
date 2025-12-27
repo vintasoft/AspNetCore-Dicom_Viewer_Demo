@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Tiedosto"
+		},
+		"viewLabel": {
+			"text": "Näytä"
+		},
+		"toolsLabel": {
+			"text": "Työkalut"
+		},
+		"measurementsLabel": {
+			"text": "Mitat"
+		},
+		"showMobileMenuButton": {
+			"title": "Lisää"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Lataa ja lisää DICOM-tiedostoja"
+		},
+		"clearSessionCacheButton": {
+			"title": "Tyhjennä istunnon välimuisti"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Näytä DICOM-tiedoston metatiedot"
+		},
+		"fullScreenButton": {
+			"title": "Koko näyttö"
+		},
+		"zoomOutButton": {
+			"title": "Loitonna"
+		},
+		"zoomInButton": {
+			"title": "Lähennä"
+		},
+		"invertImageButton": {
+			"title": "Käännä kuva"
+		},
+		"resetViewButton": {
+			"title": "Palauta näkymä"
+		},
+		"fitToWidthButton": {
+			"title": "Sovita kuva leveyteen"
+		},
+		"fitToHeightButton": {
+			"title": "Sovita kuva korkeuteen"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Katso kuva parhaalla mahdollisella tavalla"
+		},
+		"showTextOverlaysButton": {
+			"title": "Näytä/piilota tekstipeittokuvat"
+		},
+		"showMeasurementsButton": {
+			"title": "Näytä/piilota mitat"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Piirrä kuva interpoloinnilla"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Selaa kehyksiä"
+		},
+		"zoomToolButton": {
+			"title": "Asteikko"
+		},
+		"windowLevelToolButton": {
+			"title": "Ikkunan taso"
+		},
+		"measurementsToolButton": {
+			"title": "Mitat"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM-ikkunatason asetukset"
+		},
+		"buildLineButton": {
+			"title": "Rakenna linja"
+		},
+		"buildLinesButton": {
+			"title": "Rakenna linjoja"
+		},
+		"buildAngleButton": {
+			"title": "Rakenna kulma"
+		},
+		"buildEllipseButton": {
+			"title": "Rakenna ellipsi"
+		},
+		"buildCrossButton": {
+			"title": "Rakenna risti"
+		},
+		"buildRectangleButton": {
+			"title": "Rakenna suorakulmio"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Poista tarkennettu mittaus"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Poista kaikki mitat"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "millimetriä"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "senttimetriä"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Tuumaa"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Pikselit"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Piilota sivupaneeli"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM-sarjan johtaja"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Näytä"
+				},
+				"toolsLabel": {
+					"text": "Työkalut"
+				},
+				"measurementsLabel": {
+					"text": "Mitat"
+				},
+				"showMobileMenuButton": {
+					"title": "Lisää"
+				},
+				"invertImageButton": {
+					"title": "Käännä kuva"
+				},
+				"resetViewButton": {
+					"title": "Palauta näkymä"
+				},
+				"fitToWidthButton": {
+					"title": "Sovita kuva leveyteen"
+				},
+				"fitToHeightButton": {
+					"title": "Sovita kuva korkeuteen"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Katso kuva parhaalla mahdollisella tavalla"
+				},
+				"showTextOverlaysButton": {
+					"title": "Näytä/piilota tekstipeittokuvat"
+				},
+				"showMeasurementsButton": {
+					"title": "Näytä/piilota mitat"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Keskimäärin"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Koko näyttö"
+				},
+				"browseToolButton": {
+					"title": "Selaa kehyksiä"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Asteikko"
+				},
+				"rotate3dToolButton": {
+					"title": "Kierrä 3D"
+				},
+				"rollToolButton": {
+					"title": "Rullaa"
+				},
+				"windowLevelToolButton": {
+					"title": "Ikkunan taso"
+				},
+				"measurementsToolButton": {
+					"title": "Mitat"
+				},
+				"buildLineButton": {
+					"title": "Rakenna linja"
+				},
+				"buildLinesButton": {
+					"title": "Rakenna linjoja"
+				},
+				"buildAngleButton": {
+					"title": "Rakenna kulma"
+				},
+				"buildEllipseButton": {
+					"title": "Rakenna ellipsi"
+				},
+				"buildCrossButton": {
+					"title": "Rakenna risti"
+				},
+				"buildRectangleButton": {
+					"title": "Rakenna suorakulmio"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Poista tarkennettu mittaus"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Poista kaikki mitat"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "millimetriä"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "senttimetriä"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Tuumaa"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Pikselit"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Oletusarvo VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Mukautettu VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagittaalinen..."
+		},
+		"CoronalButton": {
+			"value": "Koronaali..."
+		},
+		"AxialButton": {
+			"value": "Aksiaalinen..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Kaareva MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Sagittaalissa..."
+			},
+			"OnCoronalButton": {
+				"value": "Koronaalissa..."
+			},
+			"OnAxialButton": {
+				"value": "Aksiaalisesti..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Leveys:"
+			},
+			"centerLabel": {
+				"text": "Keskusta:"
+			},
+			"applyButton": {
+				"value": "Käytä"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Peruuta"
+			},
+			"resetButton": {
+				"value": "Nollaa"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Virhe"
+		},
+		"closeButton": {
+			"text": "Sulje"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT Vatsa",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "Verisuonten CT",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Bone",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT-aivot",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT Rinta",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT Keuhkot",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Leveys",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Tasaa keskelle",
+		"vsdm-metadataDialog-title": "DICOM-tiedoston metatiedot",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "Tunnisteen tunnus",
+		"vsdm-metadataTable-length": "Pituus",
+		"vsdm-metadataTable-description": "Kuvaus",
+		"vsdm-metadataTable-value": "Arvo",
+		"vsdm-customDicomVoiLutDialog-title": "Ikkunan taso",
+		"vsdm-dialog-applyButton": "Käytä",
+		"vsdm-dialog-cancelButton": "Peruuta",
+		"vsdm-dialog-resetButton": "Nollaa"
+	}
+}

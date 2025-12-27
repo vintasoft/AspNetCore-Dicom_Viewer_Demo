@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Mapa"
+		},
+		"viewLabel": {
+			"text": "Pogled"
+		},
+		"toolsLabel": {
+			"text": "Orodja"
+		},
+		"measurementsLabel": {
+			"text": "Meritve"
+		},
+		"showMobileMenuButton": {
+			"title": "Več"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Naložite in dodajte datoteke DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Počisti predpomnilnik seje"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Pokaži metapodatke datoteke DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Celozaslonski način"
+		},
+		"zoomOutButton": {
+			"title": "Pomanjšanje"
+		},
+		"zoomInButton": {
+			"title": "Približaj"
+		},
+		"invertImageButton": {
+			"title": "Obrni sliko"
+		},
+		"resetViewButton": {
+			"title": "Ponastavi pogled"
+		},
+		"fitToWidthButton": {
+			"title": "Prilagodi sliko širini"
+		},
+		"fitToHeightButton": {
+			"title": "Prilagodi sliko višini"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Oglejte si sliko, ki se najbolje prilega"
+		},
+		"showTextOverlaysButton": {
+			"title": "Pokaži/skrij prekrivanja besedila"
+		},
+		"showMeasurementsButton": {
+			"title": "Prikaži/skrij meritve"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Nariši sliko z interpolacijo"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Brskanje po okvirjih"
+		},
+		"zoomToolButton": {
+			"title": "Zoom"
+		},
+		"windowLevelToolButton": {
+			"title": "Raven okna"
+		},
+		"measurementsToolButton": {
+			"title": "Meritve"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Nastavitve ravni okna DICOM"
+		},
+		"buildLineButton": {
+			"title": "Zgradite linijo"
+		},
+		"buildLinesButton": {
+			"title": "Zgradite črte"
+		},
+		"buildAngleButton": {
+			"title": "Kot gradnje"
+		},
+		"buildEllipseButton": {
+			"title": "Zgradite elipso"
+		},
+		"buildCrossButton": {
+			"title": "Zgradite križ"
+		},
+		"buildRectangleButton": {
+			"title": "Zgradite pravokotnik"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Odstranite fokusirano meritev"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Odstranite vse meritve"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Milimetri"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Centimetri"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Palcev"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Piksli"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Skrij stransko ploščo"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Upravitelj serije DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Pogled"
+				},
+				"toolsLabel": {
+					"text": "Orodja"
+				},
+				"measurementsLabel": {
+					"text": "Meritve"
+				},
+				"showMobileMenuButton": {
+					"title": "Več"
+				},
+				"invertImageButton": {
+					"title": "Obrni sliko"
+				},
+				"resetViewButton": {
+					"title": "Ponastavi pogled"
+				},
+				"fitToWidthButton": {
+					"title": "Prilagodi sliko širini"
+				},
+				"fitToHeightButton": {
+					"title": "Prilagodi sliko višini"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Oglejte si sliko, ki se najbolje prilega"
+				},
+				"showTextOverlaysButton": {
+					"title": "Pokaži/skrij prekrivanja besedila"
+				},
+				"showMeasurementsButton": {
+					"title": "Prikaži/skrij meritve"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Povprečje"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Celozaslonski način"
+				},
+				"browseToolButton": {
+					"title": "Brskanje po okvirjih"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Zoom"
+				},
+				"rotate3dToolButton": {
+					"title": "Zasukaj 3D"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Raven okna"
+				},
+				"measurementsToolButton": {
+					"title": "Meritve"
+				},
+				"buildLineButton": {
+					"title": "Zgradite linijo"
+				},
+				"buildLinesButton": {
+					"title": "Zgradite črte"
+				},
+				"buildAngleButton": {
+					"title": "Kot gradnje"
+				},
+				"buildEllipseButton": {
+					"title": "Zgradite elipso"
+				},
+				"buildCrossButton": {
+					"title": "Zgradite križ"
+				},
+				"buildRectangleButton": {
+					"title": "Zgradite pravokotnik"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Odstranite fokusirano meritev"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Odstranite vse meritve"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Milimetri"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Centimetri"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Palcev"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Piksli"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Privzeti VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "VOI LUT po meri..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagitalno..."
+		},
+		"CoronalButton": {
+			"value": "Koronalni..."
+		},
+		"AxialButton": {
+			"value": "Aksialni..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Ukrivljen MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Na sagitalnem..."
+			},
+			"OnCoronalButton": {
+				"value": "Na koronarnem..."
+			},
+			"OnAxialButton": {
+				"value": "Na aksialnem..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Premer:"
+			},
+			"centerLabel": {
+				"text": "Center:"
+			},
+			"applyButton": {
+				"value": "Prijavite se"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Prekliči"
+			},
+			"resetButton": {
+				"value": "Ponastaviti"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Napaka"
+		},
+		"closeButton": {
+			"text": "Zapri"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT trebuha",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT žil",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT kosti",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT možganov",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT prsnega koša",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT pljuč",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Premer",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Center",
+		"vsdm-metadataDialog-title": "Metapodatki datoteke DICOM",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "ID oznake",
+		"vsdm-metadataTable-length": "Dolžina",
+		"vsdm-metadataTable-description": "Opis",
+		"vsdm-metadataTable-value": "Vrednost",
+		"vsdm-customDicomVoiLutDialog-title": "Raven okna",
+		"vsdm-dialog-applyButton": "Prijavite se",
+		"vsdm-dialog-cancelButton": "Prekliči",
+		"vsdm-dialog-resetButton": "Ponastaviti"
+	}
+}

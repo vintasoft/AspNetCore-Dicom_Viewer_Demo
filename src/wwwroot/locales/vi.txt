@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Tệp"
+		},
+		"viewLabel": {
+			"text": "Xem"
+		},
+		"toolsLabel": {
+			"text": "Công cụ"
+		},
+		"measurementsLabel": {
+			"text": "Đo"
+		},
+		"showMobileMenuButton": {
+			"title": "Thêm"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Tải lên và thêm tệp DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Xóa bộ nhớ đệm phiên"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Hiển thị siêu dữ liệu tệp DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Toàn màn hình"
+		},
+		"zoomOutButton": {
+			"title": "Thu nhỏ"
+		},
+		"zoomInButton": {
+			"title": "Phóng to"
+		},
+		"invertImageButton": {
+			"title": "Đảo ngược hình ảnh"
+		},
+		"resetViewButton": {
+			"title": "Đặt lại chế độ xem"
+		},
+		"fitToWidthButton": {
+			"title": "Điều chỉnh hình ảnh theo chiều rộng"
+		},
+		"fitToHeightButton": {
+			"title": "Điều chỉnh hình ảnh theo chiều cao"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Xem hình ảnh ở chế độ vừa vặn nhất"
+		},
+		"showTextOverlaysButton": {
+			"title": "Hiển thị/ẩn lớp phủ văn bản"
+		},
+		"showMeasurementsButton": {
+			"title": "Hiển thị/ẩn phép đo"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Vẽ hình ảnh bằng nội suy"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Xoay"
+		},
+		"browseToolButton": {
+			"title": "Duyệt khung"
+		},
+		"zoomToolButton": {
+			"title": "Tỷ lệ"
+		},
+		"windowLevelToolButton": {
+			"title": "Mức cửa sổ"
+		},
+		"measurementsToolButton": {
+			"title": "Đo"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Cài đặt mức cửa sổ DICOM"
+		},
+		"buildLineButton": {
+			"title": "Đường dựng"
+		},
+		"buildLinesButton": {
+			"title": "Đường dựng"
+		},
+		"buildAngleButton": {
+			"title": "Góc dựng"
+		},
+		"buildEllipseButton": {
+			"title": "Hình elip dựng"
+		},
+		"buildCrossButton": {
+			"title": "Hình chữ thập dựng"
+		},
+		"buildRectangleButton": {
+			"title": "Hình chữ nhật dựng"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Xóa phép đo được lấy nét"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Xóa tất cả phép đo"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Milimet"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "centimét"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Inch"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Điểm ảnh"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Ẩn Bảng điều khiển bên"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Trình quản lý chuỗi DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Xem"
+				},
+				"toolsLabel": {
+					"text": "Công cụ"
+				},
+				"measurementsLabel": {
+					"text": "Đo"
+				},
+				"showMobileMenuButton": {
+					"title": "Thêm"
+				},
+				"invertImageButton": {
+					"title": "Đảo ngược hình ảnh"
+				},
+				"resetViewButton": {
+					"title": "Đặt lại chế độ xem"
+				},
+				"fitToWidthButton": {
+					"title": "Điều chỉnh hình ảnh theo chiều rộng"
+				},
+				"fitToHeightButton": {
+					"title": "Điều chỉnh hình ảnh theo chiều cao"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Xem hình ảnh ở chế độ vừa vặn nhất"
+				},
+				"showTextOverlaysButton": {
+					"title": "Hiển thị/ẩn lớp phủ văn bản"
+				},
+				"showMeasurementsButton": {
+					"title": "Hiển thị/ẩn phép đo"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Trung bình"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Toàn màn hình"
+				},
+				"browseToolButton": {
+					"title": "Duyệt khung"
+				},
+				"panToolButton": {
+					"title": "Xoay"
+				},
+				"zoomToolButton": {
+					"title": "Tỷ lệ"
+				},
+				"rotate3dToolButton": {
+					"title": "Xoay 3D"
+				},
+				"rollToolButton": {
+					"title": "Cuộn"
+				},
+				"windowLevelToolButton": {
+					"title": "Mức cửa sổ"
+				},
+				"measurementsToolButton": {
+					"title": "Đo"
+				},
+				"buildLineButton": {
+					"title": "Đường dựng"
+				},
+				"buildLinesButton": {
+					"title": "Đường dựng"
+				},
+				"buildAngleButton": {
+					"title": "Góc dựng"
+				},
+				"buildEllipseButton": {
+					"title": "Hình elip dựng"
+				},
+				"buildCrossButton": {
+					"title": "Hình chữ thập dựng"
+				},
+				"buildRectangleButton": {
+					"title": "Hình chữ nhật dựng"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Xóa phép đo được lấy nét"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Xóa tất cả phép đo"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Milimet"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "centimét"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Inch"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Điểm ảnh"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "VOI LUT mặc định"
+		},
+		"customVoiLutButton": {
+			"value": "Tùy chỉnh VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "MPR 3D..."
+		},
+		"SagittalButton": {
+			"value": "Sagittal..."
+		},
+		"CoronalButton": {
+			"value": "Coronal..."
+		},
+		"AxialButton": {
+			"value": "Axial..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Curved MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Trên sagittal..."
+			},
+			"OnCoronalButton": {
+				"value": "Trên coronal..."
+			},
+			"OnAxialButton": {
+				"value": "Trên axial..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Chiều rộng:"
+			},
+			"centerLabel": {
+				"text": "Trung tâm:"
+			},
+			"applyButton": {
+				"value": "Áp dụng"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Hủy"
+			},
+			"resetButton": {
+				"value": "Cài lại"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Lỗi"
+		},
+		"closeButton": {
+			"text": "Đóng"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT bụng",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT mạch máu",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT xương",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT não",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT ngực",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT Phổi",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Chiều rộng",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Căn giữa",
+		"vsdm-metadataDialog-title": "Siêu dữ liệu tệp DICOM",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "Mã thẻ",
+		"vsdm-metadataTable-length": "Chiều dài",
+		"vsdm-metadataTable-description": "Sự miêu tả",
+		"vsdm-metadataTable-value": "Giá trị",
+		"vsdm-customDicomVoiLutDialog-title": "Cấp cửa sổ",
+		"vsdm-dialog-applyButton": "Áp dụng",
+		"vsdm-dialog-cancelButton": "Hủy",
+		"vsdm-dialog-resetButton": "Cài lại"
+	}
+}

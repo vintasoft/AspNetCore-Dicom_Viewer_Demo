@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Αρχείο"
+		},
+		"viewLabel": {
+			"text": "Προβολή"
+		},
+		"toolsLabel": {
+			"text": "Εργαλεία"
+		},
+		"measurementsLabel": {
+			"text": "Μετρήσεις"
+		},
+		"showMobileMenuButton": {
+			"title": "Περισσότερα"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Μεταφορτώστε και προσθέστε αρχεία DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Εκκαθάριση προσωρινής μνήμης περιόδου λειτουργίας"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Εμφάνιση μεταδεδομένων αρχείου DICOM"
+		},
+		"fullScreenButton": {
+			"title": "ΠΛΗΡΗΣ ΟΘΟΝΗ"
+		},
+		"zoomOutButton": {
+			"title": "Σμίκρυνση"
+		},
+		"zoomInButton": {
+			"title": "Μεγέθυνση"
+		},
+		"invertImageButton": {
+			"title": "Αντιστροφή εικόνας"
+		},
+		"resetViewButton": {
+			"title": "Επαναφορά προβολής"
+		},
+		"fitToWidthButton": {
+			"title": "Προσαρμογή της εικόνας στο πλάτος"
+		},
+		"fitToHeightButton": {
+			"title": "Προσαρμόστε την εικόνα στο ύψος"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Δείτε την εικόνα στην καλύτερη εφαρμογή"
+		},
+		"showTextOverlaysButton": {
+			"title": "Εμφάνιση/απόκρυψη επικαλύψεων κειμένου"
+		},
+		"showMeasurementsButton": {
+			"title": "Εμφάνιση/απόκρυψη μετρήσεων"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Σχεδιάστε εικόνα με παρεμβολή"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Παν"
+		},
+		"browseToolButton": {
+			"title": "Περιηγηθείτε σε καρέ"
+		},
+		"zoomToolButton": {
+			"title": "Κλίμακα"
+		},
+		"windowLevelToolButton": {
+			"title": "Επίπεδο παραθύρου"
+		},
+		"measurementsToolButton": {
+			"title": "Μετρήσεις"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Ρυθμίσεις επιπέδου παραθύρου DICOM"
+		},
+		"buildLineButton": {
+			"title": "Κατασκευή γραμμής"
+		},
+		"buildLinesButton": {
+			"title": "Δημιουργήστε γραμμές"
+		},
+		"buildAngleButton": {
+			"title": "Γωνία δόμησης"
+		},
+		"buildEllipseButton": {
+			"title": "Κατασκευάστε έλλειψη"
+		},
+		"buildCrossButton": {
+			"title": "Κατασκευάστε σταυρό"
+		},
+		"buildRectangleButton": {
+			"title": "Κατασκευάστε ορθογώνιο"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Αφαιρέστε την εστιασμένη μέτρηση"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Αφαιρέστε όλες τις μετρήσεις"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Χιλιοστά"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "εκατοστά"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "ίντσες"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Pixels"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Απόκρυψη πλαϊνού πλαισίου"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Διευθυντής σειράς DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "Χ"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Προβολή"
+				},
+				"toolsLabel": {
+					"text": "Εργαλεία"
+				},
+				"measurementsLabel": {
+					"text": "Μετρήσεις"
+				},
+				"showMobileMenuButton": {
+					"title": "Περισσότερα"
+				},
+				"invertImageButton": {
+					"title": "Αντιστροφή εικόνας"
+				},
+				"resetViewButton": {
+					"title": "Επαναφορά προβολής"
+				},
+				"fitToWidthButton": {
+					"title": "Προσαρμογή της εικόνας στο πλάτος"
+				},
+				"fitToHeightButton": {
+					"title": "Προσαρμόστε την εικόνα στο ύψος"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Δείτε την εικόνα στην καλύτερη εφαρμογή"
+				},
+				"showTextOverlaysButton": {
+					"title": "Εμφάνιση/απόκρυψη επικαλύψεων κειμένου"
+				},
+				"showMeasurementsButton": {
+					"title": "Εμφάνιση/απόκρυψη μετρήσεων"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Μέσος"
+					}
+				},
+				"fullScreenButton": {
+					"title": "ΠΛΗΡΗΣ ΟΘΟΝΗ"
+				},
+				"browseToolButton": {
+					"title": "Περιηγηθείτε σε καρέ"
+				},
+				"panToolButton": {
+					"title": "Παν"
+				},
+				"zoomToolButton": {
+					"title": "Κλίμακα"
+				},
+				"rotate3dToolButton": {
+					"title": "Περιστροφή 3D"
+				},
+				"rollToolButton": {
+					"title": "Ρολό"
+				},
+				"windowLevelToolButton": {
+					"title": "Επίπεδο παραθύρου"
+				},
+				"measurementsToolButton": {
+					"title": "Μετρήσεις"
+				},
+				"buildLineButton": {
+					"title": "Κατασκευή γραμμής"
+				},
+				"buildLinesButton": {
+					"title": "Δημιουργήστε γραμμές"
+				},
+				"buildAngleButton": {
+					"title": "Γωνία δόμησης"
+				},
+				"buildEllipseButton": {
+					"title": "Κατασκευάστε έλλειψη"
+				},
+				"buildCrossButton": {
+					"title": "Κατασκευάστε σταυρό"
+				},
+				"buildRectangleButton": {
+					"title": "Κατασκευάστε ορθογώνιο"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Αφαιρέστε την εστιασμένη μέτρηση"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Αφαιρέστε όλες τις μετρήσεις"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Χιλιοστά"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "εκατοστά"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "ίντσες"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Pixels"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Προεπιλογή VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Προσαρμοσμένο VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Τοξοειδής..."
+		},
+		"CoronalButton": {
+			"value": "Στεφάνης του στέμματος..."
+		},
+		"AxialButton": {
+			"value": "Αξονικός..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Καμπύλο MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Στο οβελιαίο..."
+			},
+			"OnCoronalButton": {
+				"value": "Στο στέμμα..."
+			},
+			"OnAxialButton": {
+				"value": "Σε αξονική..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "ΟΚ"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Πλάτος:"
+			},
+			"centerLabel": {
+				"text": "Κέντρο:"
+			},
+			"applyButton": {
+				"value": "Ισχύουν"
+			},
+			"okButton": {
+				"value": "ΟΚ"
+			},
+			"cancelButton": {
+				"value": "Ακύρωση"
+			},
+			"resetButton": {
+				"value": "Επαναφορά"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Σφάλμα"
+		},
+		"closeButton": {
+			"text": "Κλείσιμο"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT κοιλίας",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT Αγγειακών",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Οστό",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT Εγκεφάλου",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT Θώρακος",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT Πνεύμονες",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Πλάτος",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Στοίχιση στο κέντρο",
+		"vsdm-metadataDialog-title": "Μεταδεδομένα αρχείου DICOM",
+		"vsdm-dialog-okButton": "ΟΚ",
+		"vsdm-metadataTable-tagId": "Αναγνωριστικό ετικέτας",
+		"vsdm-metadataTable-length": "Μήκος",
+		"vsdm-metadataTable-description": "Περιγραφή",
+		"vsdm-metadataTable-value": "Η αξία",
+		"vsdm-customDicomVoiLutDialog-title": "Επίπεδο παραθύρου",
+		"vsdm-dialog-applyButton": "Ισχύουν",
+		"vsdm-dialog-cancelButton": "Ακύρωση",
+		"vsdm-dialog-resetButton": "Επαναφορά"
+	}
+}

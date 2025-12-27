@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Fișier"
+		},
+		"viewLabel": {
+			"text": "Vizualizare"
+		},
+		"toolsLabel": {
+			"text": "Unelte"
+		},
+		"measurementsLabel": {
+			"text": "Măsurătorile"
+		},
+		"showMobileMenuButton": {
+			"title": "Mai multe"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Încărcați și adăugați fișiere DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Goliți memoria cache a sesiunii"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Afișați metadatele fișierului DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Ecran complet"
+		},
+		"zoomOutButton": {
+			"title": "Mărire"
+		},
+		"zoomInButton": {
+			"title": "Măriți"
+		},
+		"invertImageButton": {
+			"title": "Inversa imaginea"
+		},
+		"resetViewButton": {
+			"title": "Resetează vederea"
+		},
+		"fitToWidthButton": {
+			"title": "Potriviți imaginea la lățime"
+		},
+		"fitToHeightButton": {
+			"title": "Potriviți imaginea la înălțime"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Vizualizați imaginea cea mai potrivită"
+		},
+		"showTextOverlaysButton": {
+			"title": "Afișați/ascundeți suprapunerile de text"
+		},
+		"showMeasurementsButton": {
+			"title": "Afișați/ascundeți măsurătorile"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Desenați imaginea cu interpolare"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Răsfoiți cadre"
+		},
+		"zoomToolButton": {
+			"title": "Scală"
+		},
+		"windowLevelToolButton": {
+			"title": "Nivelul ferestrei"
+		},
+		"measurementsToolButton": {
+			"title": "Măsurătorile"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Setări pentru nivelul ferestrei DICOM"
+		},
+		"buildLineButton": {
+			"title": "Linie de construcție"
+		},
+		"buildLinesButton": {
+			"title": "Construiți linii"
+		},
+		"buildAngleButton": {
+			"title": "Construiți unghiul"
+		},
+		"buildEllipseButton": {
+			"title": "Construiți elipsa"
+		},
+		"buildCrossButton": {
+			"title": "Construiește cruce"
+		},
+		"buildRectangleButton": {
+			"title": "Construiește dreptunghi"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Eliminați măsurarea focalizată"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Eliminați toate măsurătorile"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Milimetri"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "centimetri"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "inci"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Pixeli"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Ascunde panoul lateral"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Manager de serie DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Vizualizare"
+				},
+				"toolsLabel": {
+					"text": "Unelte"
+				},
+				"measurementsLabel": {
+					"text": "Măsurătorile"
+				},
+				"showMobileMenuButton": {
+					"title": "Mai multe"
+				},
+				"invertImageButton": {
+					"title": "Inversa imaginea"
+				},
+				"resetViewButton": {
+					"title": "Resetează vederea"
+				},
+				"fitToWidthButton": {
+					"title": "Potriviți imaginea la lățime"
+				},
+				"fitToHeightButton": {
+					"title": "Potriviți imaginea la înălțime"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Vizualizați imaginea cea mai potrivită"
+				},
+				"showTextOverlaysButton": {
+					"title": "Afișați/ascundeți suprapunerile de text"
+				},
+				"showMeasurementsButton": {
+					"title": "Afișați/ascundeți măsurătorile"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "Mini IP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Medie"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Ecran complet"
+				},
+				"browseToolButton": {
+					"title": "Răsfoiți cadre"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Scală"
+				},
+				"rotate3dToolButton": {
+					"title": "Rotiți 3D"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Nivelul ferestrei"
+				},
+				"measurementsToolButton": {
+					"title": "Măsurătorile"
+				},
+				"buildLineButton": {
+					"title": "Linie de construcție"
+				},
+				"buildLinesButton": {
+					"title": "Construiți linii"
+				},
+				"buildAngleButton": {
+					"title": "Construiți unghiul"
+				},
+				"buildEllipseButton": {
+					"title": "Construiți elipsa"
+				},
+				"buildCrossButton": {
+					"title": "Construiește cruce"
+				},
+				"buildRectangleButton": {
+					"title": "Construiește dreptunghi"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Eliminați măsurarea focalizată"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Eliminați toate măsurătorile"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Milimetri"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "centimetri"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "inci"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Pixeli"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "VOI LUT implicit"
+		},
+		"customVoiLutButton": {
+			"value": "VOI LUT personalizat..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "sagital..."
+		},
+		"CoronalButton": {
+			"value": "Coronal..."
+		},
+		"AxialButton": {
+			"value": "Axial..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "MPR curbat"
+			},
+			"OnSagittalButton": {
+				"value": "Pe sagital..."
+			},
+			"OnCoronalButton": {
+				"value": "Pe coronal..."
+			},
+			"OnAxialButton": {
+				"value": "Pe axial..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Latime:"
+			},
+			"centerLabel": {
+				"text": "Centru:"
+			},
+			"applyButton": {
+				"value": "aplica"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Anulează"
+			},
+			"resetButton": {
+				"value": "Resetați"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Eroare"
+		},
+		"closeButton": {
+			"text": "Închidere"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT Abdomen",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT Vascular",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Os",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT creier",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT torace",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT plămâni",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Lăţime",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Aliniere la centru",
+		"vsdm-metadataDialog-title": "Metadatele fișierului DICOM",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "ID-ul etichetei",
+		"vsdm-metadataTable-length": "Lungime",
+		"vsdm-metadataTable-description": "Descriere",
+		"vsdm-metadataTable-value": "Valoare",
+		"vsdm-customDicomVoiLutDialog-title": "Nivelul ferestrei",
+		"vsdm-dialog-applyButton": "aplica",
+		"vsdm-dialog-cancelButton": "Anulează",
+		"vsdm-dialog-resetButton": "Resetați"
+	}
+}

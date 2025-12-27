@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Súbor"
+		},
+		"viewLabel": {
+			"text": "Vyhliadka"
+		},
+		"toolsLabel": {
+			"text": "Nástroje"
+		},
+		"measurementsLabel": {
+			"text": "Merania"
+		},
+		"showMobileMenuButton": {
+			"title": "Viac"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Nahrajte a pridajte súbory DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Vymazať vyrovnávaciu pamäť relácie"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Zobraziť metadáta súboru DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Celá obrazovka"
+		},
+		"zoomOutButton": {
+			"title": "Oddialiť"
+		},
+		"zoomInButton": {
+			"title": "Priblížiť"
+		},
+		"invertImageButton": {
+			"title": "Invertovať obrázok"
+		},
+		"resetViewButton": {
+			"title": "Obnoviť pohľad"
+		},
+		"fitToWidthButton": {
+			"title": "Prispôsobiť obrázok šírke"
+		},
+		"fitToHeightButton": {
+			"title": "Prispôsobte obrázok výške"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Prezrite si obrázok, ktorý najlepšie vyhovuje"
+		},
+		"showTextOverlaysButton": {
+			"title": "Zobraziť/skryť textové prekrytia"
+		},
+		"showMeasurementsButton": {
+			"title": "Zobraziť/skryť miery"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Nakreslite obrázok s interpoláciou"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Panvica"
+		},
+		"browseToolButton": {
+			"title": "Prehľadávať rámy"
+		},
+		"zoomToolButton": {
+			"title": "Zoom"
+		},
+		"windowLevelToolButton": {
+			"title": "Úroveň okna"
+		},
+		"measurementsToolButton": {
+			"title": "Merania"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Nastavenia úrovne okna DICOM"
+		},
+		"buildLineButton": {
+			"title": "Zostavte líniu"
+		},
+		"buildLinesButton": {
+			"title": "Stavať čiary"
+		},
+		"buildAngleButton": {
+			"title": "Zostavte uhol"
+		},
+		"buildEllipseButton": {
+			"title": "Zostavte elipsu"
+		},
+		"buildCrossButton": {
+			"title": "Stavať kríž"
+		},
+		"buildRectangleButton": {
+			"title": "Zostavte obdĺžnik"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Odstráňte zaostrené meranie"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Odstráňte všetky merania"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "milimetrov"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Centimetre"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Palce"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "pixelov"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Skryť bočný panel"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Manažér série DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Vyhliadka"
+				},
+				"toolsLabel": {
+					"text": "Nástroje"
+				},
+				"measurementsLabel": {
+					"text": "Merania"
+				},
+				"showMobileMenuButton": {
+					"title": "Viac"
+				},
+				"invertImageButton": {
+					"title": "Invertovať obrázok"
+				},
+				"resetViewButton": {
+					"title": "Obnoviť pohľad"
+				},
+				"fitToWidthButton": {
+					"title": "Prispôsobiť obrázok šírke"
+				},
+				"fitToHeightButton": {
+					"title": "Prispôsobte obrázok výške"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Prezrite si obrázok, ktorý najlepšie vyhovuje"
+				},
+				"showTextOverlaysButton": {
+					"title": "Zobraziť/skryť textové prekrytia"
+				},
+				"showMeasurementsButton": {
+					"title": "Zobraziť/skryť miery"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Priemerná"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Celá obrazovka"
+				},
+				"browseToolButton": {
+					"title": "Prehľadávať rámy"
+				},
+				"panToolButton": {
+					"title": "Panvica"
+				},
+				"zoomToolButton": {
+					"title": "Zoom"
+				},
+				"rotate3dToolButton": {
+					"title": "Otočiť 3D"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Úroveň okna"
+				},
+				"measurementsToolButton": {
+					"title": "Merania"
+				},
+				"buildLineButton": {
+					"title": "Zostavte líniu"
+				},
+				"buildLinesButton": {
+					"title": "Stavať čiary"
+				},
+				"buildAngleButton": {
+					"title": "Zostavte uhol"
+				},
+				"buildEllipseButton": {
+					"title": "Zostavte elipsu"
+				},
+				"buildCrossButton": {
+					"title": "Stavať kríž"
+				},
+				"buildRectangleButton": {
+					"title": "Zostavte obdĺžnik"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Odstráňte zaostrené meranie"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Odstráňte všetky merania"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "milimetrov"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Centimetre"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Palce"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "pixelov"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Predvolená hodnota VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Vlastné VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagitálny..."
+		},
+		"CoronalButton": {
+			"value": "Koronálny..."
+		},
+		"AxialButton": {
+			"value": "Axiálny..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Zakrivené MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Na sagitálnej..."
+			},
+			"OnCoronalButton": {
+				"value": "Na koronálnom..."
+			},
+			"OnAxialButton": {
+				"value": "Na axiálnom..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Šírka:"
+			},
+			"centerLabel": {
+				"text": "Stred:"
+			},
+			"applyButton": {
+				"value": "Použiť"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Zrušiť"
+			},
+			"resetButton": {
+				"value": "Resetovať"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Chyba"
+		},
+		"closeButton": {
+			"text": "Zavrieť"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT brucha",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT cievne",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Bone",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT mozgu",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT hrudník",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT pľúc",
+		"vsdm-selectDicomVoiLutTypePanel-width": "šírka",
+		"vsdm-selectDicomVoiLutTypePanel-center": "centrum",
+		"vsdm-metadataDialog-title": "Metadáta súboru DICOM",
+		"vsdm-dialog-okButton": "OK",
+		"vsdm-metadataTable-tagId": "ID značky",
+		"vsdm-metadataTable-length": "Dĺžka",
+		"vsdm-metadataTable-description": "Popis",
+		"vsdm-metadataTable-value": "Hodnota",
+		"vsdm-customDicomVoiLutDialog-title": "Úroveň okna",
+		"vsdm-dialog-applyButton": "Použiť",
+		"vsdm-dialog-cancelButton": "Zrušiť",
+		"vsdm-dialog-resetButton": "Resetovať"
+	}
+}

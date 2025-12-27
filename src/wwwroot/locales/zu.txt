@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Ifayela"
+		},
+		"viewLabel": {
+			"text": "Buka"
+		},
+		"toolsLabel": {
+			"text": "Amathuluzi"
+		},
+		"measurementsLabel": {
+			"text": "Izilinganiso"
+		},
+		"showMobileMenuButton": {
+			"title": "Okuningi"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Layisha futhi wengeze amafayela e-DICOM"
+		},
+		"clearSessionCacheButton": {
+			"title": "Sula inqolobane yeseshini"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Bonisa imethadatha yefayela le-DICOM"
+		},
+		"fullScreenButton": {
+			"title": "Iskrini esigcwele"
+		},
+		"zoomOutButton": {
+			"title": "Hlehlisa isithombe"
+		},
+		"zoomInButton": {
+			"title": "Sondeza isithombe"
+		},
+		"invertImageButton": {
+			"title": "Guqula isithombe"
+		},
+		"resetViewButton": {
+			"title": "Setha kabusha ukubuka"
+		},
+		"fitToWidthButton": {
+			"title": "Faka isithombe sibe ububanzi"
+		},
+		"fitToHeightButton": {
+			"title": "Faka isithombe ubude"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Buka isithombe esilingana kahle kakhulu"
+		},
+		"showTextOverlaysButton": {
+			"title": "Bonisa/fihla izimbondela zombhalo"
+		},
+		"showMeasurementsButton": {
+			"title": "Bonisa/fihla izilinganiso"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Dweba isithombe ngokuhunyushwa"
+		},
+		"mprButton": {
+			"title": "I-MPR"
+		},
+		"panToolButton": {
+			"title": "Ipani"
+		},
+		"browseToolButton": {
+			"title": "Phequlula ozimele"
+		},
+		"zoomToolButton": {
+			"title": "Sondeza"
+		},
+		"windowLevelToolButton": {
+			"title": "Izinga lewindi"
+		},
+		"measurementsToolButton": {
+			"title": "Izilinganiso"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "Izilungiselelo zezinga lewindi le-DICOM"
+		},
+		"buildLineButton": {
+			"title": "Yakha umugqa"
+		},
+		"buildLinesButton": {
+			"title": "Yakha imigqa"
+		},
+		"buildAngleButton": {
+			"title": "Yakha i-engeli"
+		},
+		"buildEllipseButton": {
+			"title": "Yakha i-ellipse"
+		},
+		"buildCrossButton": {
+			"title": "Yakha isiphambano"
+		},
+		"buildRectangleButton": {
+			"title": "Yakha unxande"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Susa ukulinganisa okugxilile"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Susa zonke izilinganiso"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Amamilimitha"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Amasentimitha"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Amayintshi"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Amaphikseli"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Fihla Iphaneli Eseceleni"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "Umphathi wochungechunge lwe-DICOM"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "I-DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Buka"
+				},
+				"toolsLabel": {
+					"text": "Amathuluzi"
+				},
+				"measurementsLabel": {
+					"text": "Izilinganiso"
+				},
+				"showMobileMenuButton": {
+					"title": "Okuningi"
+				},
+				"invertImageButton": {
+					"title": "Guqula isithombe"
+				},
+				"resetViewButton": {
+					"title": "Setha kabusha ukubuka"
+				},
+				"fitToWidthButton": {
+					"title": "Faka isithombe sibe ububanzi"
+				},
+				"fitToHeightButton": {
+					"title": "Faka isithombe ubude"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Buka isithombe esilingana kahle kakhulu"
+				},
+				"showTextOverlaysButton": {
+					"title": "Bonisa/fihla izimbondela zombhalo"
+				},
+				"showMeasurementsButton": {
+					"title": "Bonisa/fihla izilinganiso"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "I-MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "I-MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "I-MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Isilinganiso"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Iskrini esigcwele"
+				},
+				"browseToolButton": {
+					"title": "Phequlula ozimele"
+				},
+				"panToolButton": {
+					"title": "Ipani"
+				},
+				"zoomToolButton": {
+					"title": "Sondeza"
+				},
+				"rotate3dToolButton": {
+					"title": "Zungezisa i-3D"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Izinga lewindi"
+				},
+				"measurementsToolButton": {
+					"title": "Izilinganiso"
+				},
+				"buildLineButton": {
+					"title": "Yakha umugqa"
+				},
+				"buildLinesButton": {
+					"title": "Yakha imigqa"
+				},
+				"buildAngleButton": {
+					"title": "Yakha i-engeli"
+				},
+				"buildEllipseButton": {
+					"title": "Yakha i-ellipse"
+				},
+				"buildCrossButton": {
+					"title": "Yakha isiphambano"
+				},
+				"buildRectangleButton": {
+					"title": "Yakha unxande"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Susa ukulinganisa okugxilile"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Susa zonke izilinganiso"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Amamilimitha"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Amasentimitha"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Amayintshi"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Amaphikseli"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "I-VOI LUT ezenzakalelayo"
+		},
+		"customVoiLutButton": {
+			"value": "I-VOI LUT yangokwezifiso..."
+		},
+		"Mpr3dButton": {
+			"value": "I-3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagittal..."
+		},
+		"CoronalButton": {
+			"value": "I-Coronal..."
+		},
+		"AxialButton": {
+			"value": "I-Axial..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "I-MPR egobile"
+			},
+			"OnSagittalButton": {
+				"value": "Ku-sagittal..."
+			},
+			"OnCoronalButton": {
+				"value": "Ku-coronal..."
+			},
+			"OnAxialButton": {
+				"value": "Ku-axial..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Ububanzi:"
+			},
+			"centerLabel": {
+				"text": "Isikhungo:"
+			},
+			"applyButton": {
+				"value": "Faka isicelo"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"cancelButton": {
+				"value": "Khansela"
+			},
+			"resetButton": {
+				"value": "Setha kabusha"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Iphutha"
+		},
+		"closeButton": {
+			"text": "Vala"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT Isisu",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "I-CT Vascular",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT Bone",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT Brain",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT Isifuba",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT Amaphaphu",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Ububanzi",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Isikhungo",
+		"vsdm-metadataDialog-title": "Imethadatha yefayela le-DICOM",
+		"vsdm-dialog-okButton": "KULUNGILE",
+		"vsdm-metadataTable-tagId": "I-ID yomaka",
+		"vsdm-metadataTable-length": "Ubude",
+		"vsdm-metadataTable-description": "Incazelo",
+		"vsdm-metadataTable-value": "Inani",
+		"vsdm-customDicomVoiLutDialog-title": "Iwindi Izinga",
+		"vsdm-dialog-applyButton": "Faka isicelo",
+		"vsdm-dialog-cancelButton": "Khansela",
+		"vsdm-dialog-resetButton": "Setha kabusha"
+	}
+}

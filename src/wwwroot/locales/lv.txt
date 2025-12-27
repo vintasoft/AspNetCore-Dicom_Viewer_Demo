@@ -1,0 +1,330 @@
+﻿{
+	"dicomViewerControl": {
+		"fileLabel": {
+			"text": "Fails"
+		},
+		"viewLabel": {
+			"text": "Skatīt"
+		},
+		"toolsLabel": {
+			"text": "Rīki"
+		},
+		"measurementsLabel": {
+			"text": "Mērījumi"
+		},
+		"showMobileMenuButton": {
+			"title": "Vairāk"
+		},
+		"uploadAndAddFilesButton": {
+			"title": "Augšupielādējiet un pievienojiet DICOM failus"
+		},
+		"clearSessionCacheButton": {
+			"title": "Notīrīt sesijas kešatmiņu"
+		},
+		"showDicomFileMetadataButton": {
+			"title": "Rādīt DICOM faila metadatus"
+		},
+		"fullScreenButton": {
+			"title": "Pilnekrāna režīms"
+		},
+		"zoomOutButton": {
+			"title": "Attālināt"
+		},
+		"zoomInButton": {
+			"title": "Pietuvināt"
+		},
+		"invertImageButton": {
+			"title": "Apgriezt attēlu"
+		},
+		"resetViewButton": {
+			"title": "Atiestatīt skatu"
+		},
+		"fitToWidthButton": {
+			"title": "Pielāgot attēlu platumam"
+		},
+		"fitToHeightButton": {
+			"title": "Pielāgojiet attēlu augstumam"
+		},
+		"viewImageInBestFitButton": {
+			"title": "Skatiet attēlu vispiemērotākajā veidā"
+		},
+		"showTextOverlaysButton": {
+			"title": "Rādīt/slēpt teksta pārklājumus"
+		},
+		"showMeasurementsButton": {
+			"title": "Rādīt/slēpt mērījumus"
+		},
+		"drawImageWithInterpolationButton": {
+			"title": "Zīmēt attēlu ar interpolāciju"
+		},
+		"mprButton": {
+			"title": "MPR"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"browseToolButton": {
+			"title": "Pārlūkot rāmjus"
+		},
+		"zoomToolButton": {
+			"title": "Tālummaiņa"
+		},
+		"windowLevelToolButton": {
+			"title": "Logu līmenis"
+		},
+		"measurementsToolButton": {
+			"title": "Mērījumi"
+		},
+		"dicomWindowLevelSettingsButton": {
+			"title": "DICOM loga līmeņa iestatījumi"
+		},
+		"buildLineButton": {
+			"title": "Veidojiet līniju"
+		},
+		"buildLinesButton": {
+			"title": "Veidojiet līnijas"
+		},
+		"buildAngleButton": {
+			"title": "Veidot leņķi"
+		},
+		"buildEllipseButton": {
+			"title": "Veidojiet elipsi"
+		},
+		"buildCrossButton": {
+			"title": "Veidot krustu"
+		},
+		"buildRectangleButton": {
+			"title": "Izveidojiet taisnstūri"
+		},
+		"removeFocusedMeasurementButton": {
+			"title": "Noņemiet fokusēto mērījumu"
+		},
+		"removeAllMeasurementsButton": {
+			"title": "Noņemiet visus mērījumus"
+		},
+		"unitOfMeasureDropDown": {
+			"unitOfMeasureDropDown-Millimeters": {
+				"text": "Milimetri"
+			},
+			"unitOfMeasureDropDown-Centimeters": {
+				"text": "Centimetri"
+			},
+			"unitOfMeasureDropDown-Inches": {
+				"text": "Collas"
+			},
+			"unitOfMeasureDropDown-Pixels": {
+				"text": "Pikseļi"
+			}
+		},
+		"sidePanelCloseButton": {
+			"title": "Slēpt sānu paneli"
+		},
+		"dicomSeriesManagerPanelButton": {
+			"title": "DICOM sērijas vadītājs"
+		},
+		"dicomMprDialog": {
+			"title": {
+				"text": "DICOM MPR"
+			},
+			"closeButton": {
+				"value": "X"
+			},
+			"dicomMprControl": {
+				"viewLabel": {
+					"text": "Skatīt"
+				},
+				"toolsLabel": {
+					"text": "Rīki"
+				},
+				"measurementsLabel": {
+					"text": "Mērījumi"
+				},
+				"showMobileMenuButton": {
+					"title": "Vairāk"
+				},
+				"invertImageButton": {
+					"title": "Apgriezt attēlu"
+				},
+				"resetViewButton": {
+					"title": "Atiestatīt skatu"
+				},
+				"fitToWidthButton": {
+					"title": "Pielāgot attēlu platumam"
+				},
+				"fitToHeightButton": {
+					"title": "Pielāgojiet attēlu augstumam"
+				},
+				"viewImageInBestFitButton": {
+					"title": "Skatiet attēlu vispiemērotākajā veidā"
+				},
+				"showTextOverlaysButton": {
+					"title": "Rādīt/slēpt teksta pārklājumus"
+				},
+				"showMeasurementsButton": {
+					"title": "Rādīt/slēpt mērījumus"
+				},
+				"renderingModeDropDown": {
+					"renderingModeDropDown-MPR": {
+						"text": "MPR"
+					},
+					"renderingModeDropDown-MIP": {
+						"text": "MIP"
+					},
+					"renderingModeDropDown-MinIP": {
+						"text": "MinIP"
+					},
+					"renderingModeDropDown-Avg": {
+						"text": "Vidēji"
+					}
+				},
+				"fullScreenButton": {
+					"title": "Pilnekrāna režīms"
+				},
+				"browseToolButton": {
+					"title": "Pārlūkot rāmjus"
+				},
+				"panToolButton": {
+					"title": "Pan"
+				},
+				"zoomToolButton": {
+					"title": "Tālummaiņa"
+				},
+				"rotate3dToolButton": {
+					"title": "Pagriezt 3D"
+				},
+				"rollToolButton": {
+					"title": "Roll"
+				},
+				"windowLevelToolButton": {
+					"title": "Logu līmenis"
+				},
+				"measurementsToolButton": {
+					"title": "Mērījumi"
+				},
+				"buildLineButton": {
+					"title": "Veidojiet līniju"
+				},
+				"buildLinesButton": {
+					"title": "Veidojiet līnijas"
+				},
+				"buildAngleButton": {
+					"title": "Veidot leņķi"
+				},
+				"buildEllipseButton": {
+					"title": "Veidojiet elipsi"
+				},
+				"buildCrossButton": {
+					"title": "Veidot krustu"
+				},
+				"buildRectangleButton": {
+					"title": "Izveidojiet taisnstūri"
+				},
+				"removeFocusedMeasurementButton": {
+					"title": "Noņemiet fokusēto mērījumu"
+				},
+				"removeAllMeasurementsButton": {
+					"title": "Noņemiet visus mērījumus"
+				},
+				"unitOfMeasureDropDown": {
+					"unitOfMeasureDropDown-Millimeters": {
+						"text": "Milimetri"
+					},
+					"unitOfMeasureDropDown-Centimeters": {
+						"text": "Centimetri"
+					},
+					"unitOfMeasureDropDown-Inches": {
+						"text": "Collas"
+					},
+					"unitOfMeasureDropDown-Pixels": {
+						"text": "Pikseļi"
+					}
+				}
+			}
+		},
+		"defaultVoiLutButton": {
+			"value": "Noklusējuma VOI LUT"
+		},
+		"customVoiLutButton": {
+			"value": "Pielāgots VOI LUT..."
+		},
+		"Mpr3dButton": {
+			"value": "3D MPR..."
+		},
+		"SagittalButton": {
+			"value": "Sagitāls..."
+		},
+		"CoronalButton": {
+			"value": "Koronālais..."
+		},
+		"AxialButton": {
+			"value": "Aksiālais..."
+		},
+		"curvedMprGroupBox": {
+			"curvedMprGroupBox": {
+				"text": "Izliekts MPR"
+			},
+			"OnSagittalButton": {
+				"value": "Uz sagitāla..."
+			},
+			"OnCoronalButton": {
+				"value": "Uz koronāliem..."
+			},
+			"OnAxialButton": {
+				"value": "Uz aksiālas..."
+			}
+		},
+		"metadataDialog": {
+			"okButton": {
+				"value": "labi"
+			}
+		},
+		"customDicomVoiLutDialog": {
+			"widthLabel": {
+				"text": "Platums:"
+			},
+			"centerLabel": {
+				"text": "Centrs:"
+			},
+			"applyButton": {
+				"value": "Pieteikties"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"cancelButton": {
+				"value": "Atcelt"
+			},
+			"resetButton": {
+				"value": "Atiestatīt"
+			}
+		}
+	},
+	"errorMessageDialog": {
+		"title": {
+			"text": "Kļūda"
+		},
+		"closeButton": {
+			"text": "Aizvērt"
+		}
+	},
+	"strings": {
+		"vsdm-selectDicomVoiLutTypePanel-ctAbdomen": "CT vēders",
+		"vsdm-selectDicomVoiLutTypePanel-ctAngio": "CT asinsvadu",
+		"vsdm-selectDicomVoiLutTypePanel-ctBone": "CT kauls",
+		"vsdm-selectDicomVoiLutTypePanel-ctBrain": "CT smadzenes",
+		"vsdm-selectDicomVoiLutTypePanel-ctChest": "CT krūtis",
+		"vsdm-selectDicomVoiLutTypePanel-ctLungs": "CT plaušas",
+		"vsdm-selectDicomVoiLutTypePanel-width": "Platums",
+		"vsdm-selectDicomVoiLutTypePanel-center": "Centrs",
+		"vsdm-metadataDialog-title": "DICOM faila metadati",
+		"vsdm-dialog-okButton": "labi",
+		"vsdm-metadataTable-tagId": "Tags ID",
+		"vsdm-metadataTable-length": "Garums",
+		"vsdm-metadataTable-description": "Apraksts",
+		"vsdm-metadataTable-value": "Vērtība",
+		"vsdm-customDicomVoiLutDialog-title": "Logu līmenis",
+		"vsdm-dialog-applyButton": "Pieteikties",
+		"vsdm-dialog-cancelButton": "Atcelt",
+		"vsdm-dialog-resetButton": "Atiestatīt"
+	}
+}
